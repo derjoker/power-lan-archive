@@ -128,7 +128,7 @@ In Boulevardzeitungen {{c2::steht}} viel {{c1::Klatsch}} über prominente Leute
 {{c1::Gerede}} (über jemanden/etwas): das ({{c3::Negative}} und meist {{c4::Falsche}}), was über jemanden/etwas gesagt und {{c5::verbreitet}} wird ≈ {{c2::Klatsch}}	
 {{c1::Gerede}} das: langes, sinnloses Reden über etwas (meist Unwichtiges) ≈ {{c2::Geschwätz}}	
 {{c2::Bei dem Lärm}} waren {{c3::ihre Worte}} für mich {{c4::kaum}} {{c1::verständlich}}	
-etwas wird ein {{c1::Raub}} der {{c2::Flammen}}: geschr; etwas wird bei einem {{c3::Brand}} zerstört ≈ etwas {{c4::verbrennt}}	
+etwas wird ein {{c1::Raub}} der {{c2::Flammen}}: geschr; etwas wird {{c3::bei einem Brand}} zerstört ≈ etwas {{c4::verbrennt}}	
 einen ({{c3::bewaffneten}}) Raub {{c1::begehen}}, {{c2::verüben}}	
 einem {{c2::Antrag}}, einer {{c3::Bitte}}, einer {{c4::Forderung}} {{c1::stattgeben::批准}}	
 {{c1::Einspruch}} (gegen etwas) {{c2::erheben}}, {{c3::einlegen}}	
@@ -155,7 +155,7 @@ gut/schlecht über jemanden/etwas {{c1::sprechen}}: etwas Positives/Negatives ü
 Ich spreche wohl {{c1::im Namen}} aller {{c2::Anwesenden}}, wenn ich Ihnen für diesen wunderschönen Abend danke	
 Die {{c2::Indizien}} sprechen {{c1::gegen}} ihn als {{c3::Täter}}	物证说明他不可能是案犯
 Alles {{c1::spricht dafür}}, dass Thomas recht hat	
-{{c3::Aus}} ihren Augen {{c1::sprach}} {{c2::Verzweiflung}}	
+{{c3::Aus ihren Augen}} {{c1::sprach}} {{c2::Verzweiflung}}	
 Es war ein {{c1::erfolgreiches}} Jahr. - Die {{c2::Zahlen}} {{c3::sprechen}} {{c4::für}} sich selbst	
 Und Gott {{c1::sprach}}, „Es {{c2::werde}} Licht!“	
 {{c1::fließend}}, gebrochen, gut, passabel, perfekt Englisch, Italienisch, Griechisch usw sprechen	
@@ -196,7 +196,7 @@ Er {{c1::schämt sich nicht}} zuzugeben, dass er seine Geschäftspartner {{c2::b
 Er {{c1::schämte sich}}, weil er seine Eltern {{c2::angelogen}} hatte	
 Sie duscht nie mit den anderen zusammen, weil sie {{c1::sich schämt}}	
 Die {{c2::Würfel}} sind {{c1::gefallen}}: etwas ist endgültig {{c3::entschieden}}	
-Fleisch, Zwiebeln in {{c1::Würfel}} {{c2::schneiden}}	
+Fleisch, Zwiebeln {{c1::in Würfel}} {{c2::schneiden}}	
 {{c1::der Würfel}} {{c2::zeigt}} {{c3::eine}} Sechs	
 den {{c2::Würfel}} {{c1::werfen}}	
 {{c1::sich}} die Augen {{c1::reiben}}	
@@ -333,7 +333,7 @@ Die {{c2::Miete}} ist {{c1::jeweils}} am Monatsersten zu {{c3::zahlen}}
 jemanden {{c1::gelüstet}} es nach etwas: geschr oder hum; jemand hat ein starkes {{c2::Verlangen}} nach etwas	
 etwas {{c1::aus Rache}} tun	
 {{c1::Rache}} an {{c2::jemandem}} {{c3::nehmen}}	
-{{c1::Rache}} (an jemandem): (für etwas) eine Handlung, mit der man jemanden ({{c3::außerhalb}} {{c4::des Gesetzes}}) {{c5::bestraft}}, der einem selbst od. einem Freund etwas Böses getan hat ≈ {{c2::Vergeltung}}	
+{{c1::Rache}} (an jemandem): (für etwas) eine Handlung, mit der man jemanden ({{c3::außerhalb des Gesetzes}}) {{c5::bestraft}}, der einem selbst od. einem Freund etwas Böses getan hat ≈ {{c2::Vergeltung}}	
 seinen {{c3::ermordeten}} {{c2::Freund}} {{c1::rächen}} wollen	
 einen {{c2::Mord}}, ein {{c3::Verbrechen}} {{c1::rächen}}	报血仇，向罪行报仇雪耻
 Ich werde {{c1::mich}} bei dir für deine Hilfe {{c1::revanchieren}}	
@@ -376,7 +376,7 @@ Fünf Firmen {{c1::bewerben sich}} um den {{c2::Auftrag}}
 {{c2::Auf Regen}} {{c1::folgt}} Sonne	
 im {{c1::folgenden}} Jahr	
 Aus den {{c2::Berechnungen}} des Kopernikus {{c1::folgte}}, dass {{c3::sich}} die Erde um die Sonne {{c3::dreht}}	
-Nach Sabine Binz {{c1::folgt}} {{c2::auf Platz zwei}} Edith Löhner	
+{{c3::Nach}} Sabine Binz {{c1::folgt}} {{c2::auf Platz zwei}} Edith Löhner	
 Er {{c3::ist}} dem Beispiel seines Vaters {{c1::gefolgt}} und {{c4::ebenfalls}} Arzt {{c2::geworden}}	
 jemandes {{c1::Ausführungen}} aufmerksam {{c2::zuhören}}	
 Ich kann deinen {{c2::Ausführungen}} zu diesem komplizierten Thema leider nicht {{c1::folgen}}	
@@ -403,7 +403,7 @@ ein {{c2::Kind}}, einen {{c3::Kranken}}, einen {{c4::Pflegebedürftigen}} {{c1::
 eine {{c1::Wunde}} am {{c2::Kopf}}, am {{c3::Finger}}	
 die {{c1::Wunde}} {{c2::blutet}}, {{c3::eitert}}, {{c4::nässt}}, {{c5::schmerzt}}, {{c6::brennt}}, {{c7::heilt}}, {{c8::vernarbt}}	伤口在流血，化脓，出水，疼，灼痛，愈合，结疤
 eine offene, klaffende, {{c2::tiefe}}, {{c3::frische}} {{c1::Wunde}}	外露的，裂开的，深的，新的伤口
-jemanden/etwas {{c1::versorgen}}: dafür {{c2::sorgen}}, dass jemand/etwas die nötige {{c3::Pflege}} bekommt ≈ {{c4::sich}} um jemanden/etwas {{c4::kümmern}}	
+jemanden/etwas {{c1::versorgen}}: dafür {{c2::sorgen}}, dass jemand/etwas {{c3::die nötige Pflege}} bekommt ≈ {{c4::sich}} um jemanden/etwas {{c4::kümmern}}	
 ein {{c2::Stadtviertel}} mit {{c3::Trinkwasser}} {{c1::versorgen}}	供应一个城区饮用水
 {{c2::jemanden}} mit {{c3::Nahrung}} und {{c3::Kleidung}} {{c1::versorgen}}	
 eine {{c1::Strafanstalt}} ≈ {{c2::Gefängnis}}	
@@ -486,7 +486,7 @@ jemandem eine {{c2::Aufgabe}} {{c1::anvertrauen}}	委托某人处理一项任务
 jemandem seinen {{c2::Schmuck}}, sein {{c3::Geld}} {{c1::anvertrauen}}	
 einer {{c3::Verlockung}} {{c1::widerstehen}}	抵挡住诱惑
 etwas {{c1::widersteht}} jemandem: etwas {{c2::erregt}} in jemandem {{c3::Ekel}} od. {{c4::Widerwillen}}	
-Ich sollte weniger essen, aber {{c2::bei}} Schokolade kann ich nicht {{c1::widerstehen}}	
+Ich sollte weniger essen, aber {{c2::bei Schokolade}} kann ich nicht {{c1::widerstehen}}	
 {{c1::verheerend}}: mit schlimmen Folgen ≈ furchtbar, katastrophal <ein {{c2::Brand}}, ein {{c3::Feuer}}, ein {{c4::Erdbeben}}, ein {{c5::Flugzeugabsturz}}>	火灾，大火，地震，飞机坠落
 {{c1::sich}} {{c2::durch}} Schnelligkeit vor/gegenüber den anderen {{c1::auszeichnen}}	
 Er {{c1::zeichnet sich}} dadurch {{c1::aus}}, dass er mehrere Sprachen spricht	
@@ -512,8 +512,8 @@ Die {{c2::Entführer}} des Kindes {{c3::verlangten}} eine halbe Million Euro {{c
 einen {{c2::Schlag}}, einen {{c3::Stoß}} parieren	挡住拳击、冲撞
 einen {{c2::Freund}}, das {{c3::Vaterland}}, einen Plan {{c1::verraten}}	
 Dazu kann ich {{c1::im Einzelnen}} noch nichts sagen	对此我还没法一一细说
-{{c1::Jeder}} {{c2::Einzelne}} von uns muss seinen {{c3::Beitrag}} {{c4::leisten}}	
-ein {{c2::einzelnes}} Auto {{c1::auf}} dem {{c3::Parkplatz}}	
+{{c1::Jeder Einzelne}} von uns muss seinen {{c3::Beitrag}} {{c4::leisten}}	
+ein {{c2::einzelnes}} Auto {{c1::auf dem Parkplatz}}	
 Als {{c4::Arzt}} muss man {{c3::mit Menschen umzugehen}} {{c1::wissen}}	作为医生必须懂得与人打交道
 {{c1::weiß}} wie die {{c2::Wolken}}, wie der {{c3::Schnee}}	
 In diesem Jungen {{c1::schlummert}} eine große musikalische {{c2::Begabung}}	
@@ -537,14 +537,14 @@ seinen {{c2::Arbeitsplatz}} {{c1::aufräumen}}
 seinen {{c2::Arbeitsplatz}} {{c1::verlieren}}	
 eine neue {{c1::Arbeitsstelle}} {{c2::suchen}}	
 die {{c2::Sicherheit}} am {{c1::Arbeitsplatz}}	
-(keine) {{c1::Aussicht(en)}} {{c3::auf}} {{c2::Erfolg}} haben	
+(keine) {{c1::Aussicht(en)}} {{c3::auf Erfolg}} haben	
 jemandem die {{c2::Aussicht}} {{c1::versperren}}	
 {{c1::Aussicht}} (auf etwas (Akk)): {{c3::der freie Blick}} {{c4::auf die Umgebung}} ≈ {{c2::Ausblick}}	
 jemanden {{c3::aus}} dem {{c2::Hinterhalt}} {{c1::überfallen}}	
 jemanden/etwas {{c1::überfallen}}: jemanden/etwas plötzlich {{c2::angreifen}} und mit {{c5::Waffen}} {{c3::bedrohen}} (meist um etwas zu {{c4::rauben}})	
 eine {{c2::Bank}} {{c1::überfallen}}	袭击银行
 jemanden mit einer {{c2::Bitte}}, einer {{c3::Frage}}, einem {{c4::Vorschlag}} {{c1::überfallen}}	
-jemanden {{c1::überfallen}}: gespr hum; jemanden {{c2::besuchen}}, ohne {{c3::sich}} vorher {{c3::anzumelden}}	
+jemanden {{c1::überfallen}}: gespr hum; jemanden {{c2::besuchen}}, ohne {{c3::sich vorher anzumelden}}	
 {{c2::Angst}}, {{c3::Müdigkeit}} {{c1::überfällt}} {{c4::jemanden}}	
 eine {{c2::breite}}, {{c3::schmale}}, {{c4::tiefe}} {{c1::Spalte}}	
 eine {{c1::Spalte}} in einer {{c2::Mauer}}	
@@ -557,7 +557,7 @@ Wir {{c1::bedauern}}, Ihnen {{c2::mitteilen}} zu müssen, dass Sie {{c4::die Pr�
 etwas {{c1::bedauern}}: etwas als unerfreulich, {{c2::schade}} {{c3::ansehen}}	对…表示遗憾，抱歉，惋惜
 jemanden {{c1::bedauern}}: für jemanden, dem es nicht gut geht, {{c2::Mitgefühl}} od. {{c3::Sympathie}} zeigen	对…表示同情，怜悯
 {{c1::preiswert}}: {{c2::billig}} im {{c3::Verhältnis}} zur {{c4::Qualität}} ≈ {{c5::günstig}} ↔︎ {{c6::teuer}}	
-Er {{c1::beriet sich}} {{c3::mit}} seiner Frau {{c2::über}} den Kauf eines Hauses	他同妻子商量了买房子的事
+Er {{c1::beriet sich}} {{c3::mit seiner Frau}} {{c2::über den Kauf}} eines Hauses	他同妻子商量了买房子的事
 Wir müssen {{c1::uns}} noch {{c2::mit einem Fachmann}} über {{c3::den Umbau}} des Hauses {{c1::besprechen}}	
 ein {{c2::Problem}} mit einem Kollegen {{c1::besprechen}}	
 etwas (mit jemandem) {{c1::besprechen}}: mit anderen {{c2::über}} etwas {{c3::sprechen}}	
@@ -572,7 +572,7 @@ den {{c2::Verkehr}}, die {{c3::Sicht}}, den {{c4::Verlauf}} eines Spiels {{c1::b
 Der Ring {{c1::behinderte}} sie bei der Arbeit, also {{c2::nahm}} sie ihn {{c2::ab}}	
 Die falsch {{c2::geparkten}} Autos sind eine {{c1::Behinderung}} für den {{c3::Verkehr}}	
 {{c2::Fragen}} Sie die {{c1::Auskunft}}!	
-eine {{c1::Auskunft}} (über jemanden/etwas): eine {{c2::Information}}, die man {{c4::auf}} eine Frage {{c3::erhält}}	
+eine {{c1::Auskunft}} (über jemanden/etwas): eine {{c2::Information}}, die man {{c4::auf eine Frage}} {{c3::erhält}}	
 eine {{c1::Studie}} über die {{c2::Ursachen}} des Waldsterbens	
 die {{c1::Arbeit}} (an etwas (Dat)): die {{c2::Tätigkeit}}, bei der man {{c3::geistige}} od./u. {{c4::körperliche}} {{c6::Kräfte}} {{c5::einsetzt}} und mit der man einen bestimmten {{c8::Zweck}} {{c7::verfolgt}}	
 etwas {{c1::auszeichnen}}: {{c4::Waren}} mit der {{c3::Angabe}} des Preises {{c2::versehen}}	
@@ -595,7 +595,7 @@ Er {{c4::ist}} {{c2::mit dem Kopf}} {{c3::an die Decke}} {{c1::gestoßen}}	他�
 {{c4::Voller Wut}} {{c1::stieß}} er {{c2::mit dem Fuß}} {{c3::gegen die Tür}}	
 jemandem einen {{c2::Stoß}} (in die Seite, in die Rippen) geben, {{c1::versetzen}}	
 Er hat mich {{c2::mit dem Ellbogen}} {{c3::in die Rippen}} {{c1::gestoßen}}	
-{{c2::Jedes Mal}}, wenn er zum {{c3::Klettern}} ins {{c4::Gebirge}} {{c5::fährt}}, hat seine Mutter {{c1::Angst}} um ihn	每当他去爬山，他妈总要为他担忧
+{{c2::Jedes Mal}}, wenn er {{c3::zum Klettern}} ins {{c4::Gebirge}} {{c5::fährt}}, hat seine Mutter {{c1::Angst}} um ihn	每当他去爬山，他妈总要为他担忧
 Der {{c2::Briefträger}} hat {{c1::Angst}} vor unserem bissigen Hund	
 Das neue Gesetz {{c1::sorgte für}} {{c2::Unruhe}} im Land	
 etwas {{c1::verläuft}} {{c6::ergebnislos}}, ohne {{c2::Zwischenfälle}}, {{c4::glatt}}, {{c5::störungsfrei}}, nach {{c3::Wunsch}}	某事毫无结果，未发生意外，进行顺利，不受干扰，按意愿发展
@@ -649,7 +649,7 @@ etwas {{c1::handelt von}} etwas: etwas hat etwas zum Thema ≈ etwas {{c3::erzä
 Bei dem {{c3::Angeklagten}} {{c1::handelt es sich um}} einen mehrfach {{c4::vorbestraften}} Mann	被告是个曾多次被判刑的人
 Es {{c1::handelt sich}} {{c2::darum}}, den Opfern schnell und unbürokratisch zu helfen	关键是要抛弃官僚作风，迅速向受害者提供帮助
 In manchen {{c2::Ländern}} ist es {{c3::üblich}}, beim Kauf {{c4::bestimmter Waren}} zu {{c1::handeln}}	
-mit einem Händler {{c2::um}} den Preis eines Teppichs {{c1::handeln}}	
+mit einem Händler {{c2::um den Preis}} eines Teppichs {{c1::handeln}}	
 (mit jemandem) (um etwas) {{c1::handeln}}: (beim Kauf einer Ware) versuchen, die Ware {{c2::billiger}} zu bekommen ≈ um etwas {{c3::feilschen}}	
 Im Sommer werden Tomaten {{c2::zu}} viel {{c3::günstigeren}} Preisen {{c1::gehandelt}} als im Winter	
 {{c3::mit}} {{c2::Gebrauchtwagen}} {{c1::handeln}}	经销旧汽车
@@ -673,17 +673,16 @@ Ich {{c1::gehe davon aus}}, dass alle {{c2::einverstanden}} sind	我认为大家
 etwas {{c1::verheilt}}: etwas {{c2::heilt}} {{c3::ganz}} <eine {{c4::Wunde}}, ein {{c5::Knochenbruch}}>	
 Die {{c2::Brandwunde}} ist {{c3::gut}}/{{c4::schnell}} {{c1::geheilt}}	
 Der Arzt hat die {{c2::Entzündung}} mit Penizillin {{c1::geheilt}}	医生用青霉素治愈了炎症
-Der Arzt hat den Patienten (von seinem {{c2::Leiden}}/seinen {{c3::Beschwerden}}) {{c1::geheilt}}	医生治好了病人（的病痛）
+Der Arzt hat den Patienten (von {{c2::seinem Leiden}}/{{c3::seinen Beschwerden}}) {{c1::geheilt}}	医生治好了病人（的病痛）
 Die {{c2::Aussagen}} der Zeugen {{c1::stimmten}} völlig {{c1::überein}}	
 ein Geheimnis {{c1::hüten}}: ein Geheimnis nicht {{c3::verraten}} ≈ ein Geheimnis {{c2::bewahren}}	
 {{c3::Die Katze}} {{c1::versteckte sich}} {{c2::ängstlich}} {{c4::unter dem Schrank}}	
 Die {{c1::Kleine}} sieht heute {{c2::niedlich}} aus, mit dem netten {{c3::Röckchen}} und der {{c4::Schleife}} im Haar	小姑娘今天身穿小裙子、头戴蝴蝶结，看着真是可爱
 Ich lerne Italienisch nur so {{c1::zum Spaß}}	我学意大利语只是为了好玩
 Kinder haben viel {{c1::Spaß}} {{c4::daran}}, die {{c2::Kleider}} anderer {{c3::anzuziehen}}	
-Ich {{c2::mache}} nur {{c1::Spaß}}	
 {{c2::großen}}, {{c3::viel}} {{c1::Spaß}} {{c4::an}} etwas haben	
 {{c1::Spaß}} (an etwas (Dat)) nur Sg; das Gefühl der Freude, das man {{c3::bei etwas Angenehmem}} empfindet ≈ {{c2::Vergnügen}}	
-{{c1::Spaß der}}: etwas, das man sagt od. tut, damit andere {{c3::darüber}} lachen können ≈ {{c2::Scherz}}	
+{{c1::Spaß der}}: etwas, das man sagt od. tut, damit andere {{c3::darüber lachen}} können ≈ {{c2::Scherz}}	
 Nach seiner {{c1::Entlassung}} aus dem {{c2::Gefängnis}} begann ein neuer {{c3::Abschnitt}} in seinem Leben	
 Der {{c2::Aufsatz}} {{c1::gliedert sich}} in drei {{c3::Abschnitte}}	作文分三段
 Du {{c1::teilst dir}} den Tag so schlecht {{c1::ein}}, dass du deine Arbeit nicht {{c3::schaffen}} kannst!	
@@ -691,7 +690,7 @@ Die {{c4::Boxer}} werden {{c2::nach ihrem Gewicht}} {{c3::in Klassen}} {{c1::ein
 Der Soldat {{c2::wurde}} zum {{c3::Wachdienst}} {{c1::eingeteilt}}	这个士兵被派去执勤
 Dieser Satz {{c1::gliedert sich}} in Haupt- und Nebensatz	
 Der {{c2::Bericht}} ist in fünf Kapitel {{c1::gegliedert}}	
-{{c2::Der}} {{c1::Roman}} hat 10 Kapitel	
+{{c2::Der Roman}} hat 10 Kapitel	
 „Buddenbrooks“ ist der wohl {{c2::berühmteste}} {{c1::Roman}} von Thomas Mann	
 etwas (in etwas (Akk)) {{c1::einteilen}}: ein {{c3::Ganzes}} in mehrere {{c4::Teile}} {{c2::gliedern}}	
 Das Buch ist in drei Kapitel {{c1::eingeteilt}}	
@@ -705,7 +704,7 @@ eine {{c3::Straße}}, ein {{c4::Hang}} {{c1::steigt}} steil {{c1::an}}, {{c2::f�
 {{c1::Gefạ̈lle das}}: der Grad, mit dem etwas (z. B. ein Gelände, eine Straße, ein Fluss usw) schräg nach unten verläuft, sich neigt ≈ {{c2::Neigung}} ↔︎ {{c3::Steigung}}	
 Die Straße hat ein {{c1::Gefälle}} {{c2::von}} 8%	
 ein {{c2::leichtes}}, {{c3::starkes}} {{c1::Gefälle}}	
-Die Straße zum {{c2::Pass}} hat eine {{c1::Steigung}} von 14%	通往山口的路有一个14度的坡度
+Die Straße zum Pass hat eine {{c1::Steigung}} von 14%	通往山口的路有一个14度的坡度
 an der {{c4::Steigung}} in einen {{c3::niedrigeren}} {{c2::Gang}} {{c1::schalten}}	爬坡挂低挡
 {{c2::den Befehl}} {{c1::verweigern}}	拒绝接受命令
 {{c1::sich}} {{c2::einem Befehl}} {{c1::widersetzen}}	违抗命令
@@ -947,7 +946,6 @@ etwas {{c1::gewährt}} {{c2::jemandem}} {{c3::Schutz}}, {{c4::Sicherheit}}, {{c5
 {{c2::jemandem}} {{c3::Asyl}}, {{c4::Obdach}}, {{c5::Schutz}} {{c1::gewähren}}	准许某人避难，给某人以容身之处，为某人提供保护
 jemandem/sich einen {{c2::Traum}}, einen {{c3::Wunsch}} {{c1::erfüllen}}	
 Können Sie {{c1::gewährleisten}}, dass die {{c2::Lieferung}} {{c4::rechtzeitig}} {{c3::ankommt}}?	您能保证货物及时送到吗？
-Aber das ist nur {{c1::Aberglaube}}.	迷信
 Er ist eine {{c1::stattliche}} {{c2::Erscheinung}}	他是一位身躯魁梧的人
 Er {{c1::eignete sich}} {{c2::unerlaubt}} mehrere Bücher seines Freundes {{c1::an}}	
 {{c1::sich}} {{c2::Kenntnisse}}, einen besseren {{c3::Stil}}, gutes {{c4::Benehmen}}, {{c5::Wissen}} {{c1::aneignen}}	掌握知识，养成好的作风，养成好的品行，获得学问
@@ -966,7 +964,7 @@ ein {{c2::Gerät}}, das die {{c3::vorbeifahrenden}} Autos {{c1::zählt}}
 die Tage bis Weihnachten {{c1::zählen}}	
 Maier {{c2::erzielte}} den {{c1::Ausgleich}} zum 2:2 in der 90. Minute	
 Als {{c1::Ausgleich}} für seine {{c3::Überstunden}} {{c2::erhält}} er zwei Tage frei	
-Er {{c1::gleicht}} seine mangelnde technische {{c2::Begabung}} {{c3::durch viel Fleiß}} {{c1::aus}}	
+Er {{c1::gleicht}} seine {{c2::mangelnde technische Begabung}} {{c3::durch viel Fleiß}} {{c1::aus}}	
 einen {{c2::Mangel}}, einen {{c3::Verlust}} {{c1::wettmachen}}	弥补缺陷，损失
 Der Schwimmer {{c1::holte}} zwar {{c1::auf}}, konnte aber nicht mehr {{c2::gewinnen}}	
 (etwas) {{c1::aufholen}}: einen {{c3::Rückstand}} gegenüber jemandem/etwas {{c4::verkleinern}} od. völlig {{c5::beseitigen}}	
@@ -1002,10 +1000,10 @@ Im/In {{c1::Hinblick}} auf unser {{c2::gestriges}} Gespräch möchte ich Ihnen n
 Kann ich (mir) einen Bleistift bei dir {{c1::ausleihen}}?	
 Würdest du mir bitte dein Auto morgen kurz {{c1::ausleihen}}?	
 Mein Rad kann ich dir nicht {{c1::ausleihen}}	
-etwas {{c1::verleiht}} jemandem neue {{c2::Kraft}}, neuen {{c3::Mut}}	
+etwas {{c1::verleiht}} jemandem {{c2::neue Kraft}}, {{c3::neuen Mut}}	
 jemandem einen {{c2::Preis}}, einen {{c3::Orden}}, einen {{c4::Titel}} {{c1::verleihen}}	给某人颁奖，授予某人勋章、头衔
 Ich {{c1::verleihe}} meine Bücher nur noch {{c2::an}} Leute, die {{c3::sorgfältig}} mit ihnen {{c4::umgehen}}	
-Das Motorrad {{c1::gehört}} ihm nicht - er hat es sich {{c3::von}} seinem Freund {{c2::geliehen}}	
+Das Motorrad {{c1::gehört}} ihm nicht - er hat es sich {{c3::von seinem Freund}} {{c2::geliehen}}	
 Kannst du mir bis morgen zehn Euro {{c1::leihen}}?	
 Ihr Vater {{c1::lieh}} ihr das Auto	
 Wo ist {{c2::der Film}} {{c1::aufgenommen}} worden?	
@@ -1052,7 +1050,7 @@ sich (Dat) etwas {{c1::gefallen}} lassen: gespr; sich gegen etwas nicht {{c2::we
 Warum {{c1::lässt du dir}} seine Gemeinheiten {{c1::gefallen}}?	为什么你能容忍他的卑鄙行为？
 Es {{c1::gefällt mir}} gar nicht, dass ich heute länger arbeiten muss	
 {{c1::Gefalle ich dir}} mit meiner neuen {{c2::Frisur}}?	
-{{c1::Gefallen}} {{c2::an jemandem/etwas}} finden, haben: jemanden sympathisch finden, etwas {{c3::mögen}}	
+{{c1::Gefallen}} {{c2::an jemandem/etwas}} finden, haben: jemanden {{c4::sympathisch}} finden, etwas {{c3::mögen}}	
 Kannst du mir {{c1::einen großen Gefallen}} tun und mir ein Buch aus der Stadt mitbringen	
 Tu mir bitte {{c1::den Gefallen}} und {{c2::hör}} {{c3::mit diesem Lärm}} {{c2::auf}}!	
 Er hat ({{c2::seine Stelle}}) {{c1::gekündigt}} und sich einen neuen Job gesucht	
@@ -1179,11 +1177,10 @@ Die {{c2::Gewerkschaften}} {{c1::vertreten}} die Interessen der Arbeitnehmer
 jemanden während seines Urlaubs {{c1::vertreten}}	
 eine {{c2::erkrankte}} Kollegin {{c1::vertreten}}	
 eine {{c2::beleidigende}} {{c1::Bemerkung}}	
-jemanden (durch/mit etwas) {{c1::beleidigen}}: jemandes {{c3::Gefühle}} od. {{c4::Ehre}} durch Worte od. Handlungen sehr {{c2::verletzen}} ≈ kränken	
-Sie {{c2::ist}} wegen jeder {{c3::Kleinigkeit}} {{c1::beleidigt}}	
+jemanden (durch/mit etwas) {{c1::beleidigen}}: jemandes {{c3::Gefühle}} od. {{c4::Ehre}} durch {{c5::Worte}} od. {{c6::Handlungen}} sehr {{c2::verletzen}} ≈ kränken	
 {{c1::tief}}, {{c2::zutiefst}}, {{c3::tödlich}} beleidigt	
 Lass das lieber {{c2::bleiben}}, das gibt nur {{c1::Ärger}}!	
-Das hättest du {{c1::lieber}} nicht sagen sollen - jetzt ist er {{c2::beleidigt}}	
+Das hättest du {{c1::lieber nicht}} sagen sollen - jetzt ist er {{c2::beleidigt}}	
 Ein Auto ist ja ganz praktisch, aber {{c2::in der Stadt}} ist mir ein Fahrrad {{c1::lieber}}	
 {{c1::lieber heute als morgen}}: so bald wie möglich	
 {{c2::Hunger}}, {{c3::Kälte}}, {{c4::Schmerzen}} {{c1::aushalten}} müssen	
@@ -1204,7 +1201,7 @@ einen {{c3::schweren}} {{c2::Sack}} {{c1::schleifen}}
 ein Beil, ein Messer, eine Schere, eine Sense {{c1::schleifen}}	
 {{c1::Kennst}} du dich in Paris {{c1::aus}}?	
 {{c1::Kennst}} du dich mit Computern {{c1::aus}}?	
-Da zwei Teilnehmer {{c2::dieselbe}} Punktzahl haben, wird {{c1::durch Los}} {{c3::ermittelt}}, wer {{c4::in das Finale}} kommt	
+Da zwei Teilnehmer {{c2::dieselbe Punktzahl}} aben, wird {{c1::durch Los}} {{c3::ermittelt}}, wer {{c4::in das Finale}} kommt	
 Er kaufte fünf {{c1::Lose}}, und alle waren Nieten	
 Wir {{c1::losen aus}}, wer als {{c2::Erster}} spielt	
 etwas nimmt {{c1::Gestalt}}/{{c1::Formen}} an: das Ergebnis od. das Endprodukt einer Sache wird (allmählich) {{c2::deutlich}} od. {{c3::erkennbar}}	
@@ -1220,7 +1217,7 @@ eine {{c2::Gewohnheit}}, schlechte {{c3::Manieren}} {{c1::annehmen}}
 „Kommt er noch?“ - „Ich {{c1::nehme}} schon {{c1::an}}“	他还来吗？我相信回来的。
 einem Mädchen die/seine {{c3::Unschuld}} {{c1::nehmen}}, {{c2::rauben}}	
 die {{c1::Unschuld}} eines kleinen Kindes	
-Der Richter {{c1::zweifelte}} {{c2::an seiner Unschuld}}, musste ihn jedoch aus {{c3::Mangel}} an {{c5::Beweisen}} {{c4::freisprechen}}	
+Der Richter {{c1::zweifelte}} {{c2::an seiner Unschuld}}, musste ihn jedoch {{c3::aus Mangel an Beweisen}} {{c4::freisprechen}}	
 einen {{c2::Antrag}}, einen {{c3::Gesetzesentwurf}} {{c1::annehmen}}	
 „Ich habe ihm ein wirklich tolles {{c1::Angebot}} gemacht“ - „Und hat er (es) {{c2::angenommen}}?“	
 {{c2::Angebot und Nachfrage}} {{c1::regeln}} den Preis einer Ware	
@@ -1271,7 +1268,7 @@ gegen eine {{c4::Vorschrift}}, eine {{c1::Regel}}, ein {{c2::Gesetz}}, die {{c3:
 {{c1::gegen etwas verstoßen}}: nicht so handeln, wie es eine {{c3::Regel}}, ein {{c4::Gesetz}} o. Ä. verlangt ≈ etwas {{c2::verletzen}}	
 im {{c1::Verlauf}} der {{c2::Sitzung}}	
 Zum typischen {{c1::Verlauf}} dieser Krankheit {{c2::gehört}} {{c3::hohes Fieber}}	
-{{c1::sich}} {{c2::für}} eine Tat vor dem Gericht, vor den Eltern {{c1::verantworten}} müssen	
+{{c1::sich}} {{c2::für eine Tat}} vor dem Gericht, vor den Eltern {{c1::verantworten}} müssen	
 Kann die Firma eine solche Maßnahme {{c1::verantworten}}?	
 jemandem {{c2::den Zutritt}} zum Haus {{c1::verwehren}}	
 jemandem etwas {{c1::verwehren}}: geschr ≈ jemandem etwas {{c2::verbieten}}, {{c3::verweigern}} ↔︎ jemandem etwas {{c4::erlauben}}	
@@ -1312,7 +1309,7 @@ Ich {{c1::melde mich}} nach dem Urlaub {{c2::bei dir}}
 {{c2::einen Unfall}} bei der Polizei {{c1::melden}}	
 etwas {{c1::melden}}: eine Nachricht ({{c2::im Fernsehen}}, {{c3::im Radio}} od. {{c4::in der Zeitung}}) mitteilen	
 Der Korrespondent {{c1::meldet}} neue {{c2::Unruhen}} aus Südamerika	
-Die Mutter {{c1::ermahnte}} das Kind, nicht mit einem Fremden {{c2::mitzugehen}}	
+Die Mutter {{c1::ermahnte}} das Kind, nicht {{c3::mit einem Fremden}} {{c2::mitzugehen}}	
 {{c4::Am Telefon}} {{c2::klang}} ihre {{c3::Stimme}} ganz {{c1::fremd}}	
 Als sie ihren ehemaligen Freund nach langer Zeit wiedersah, stellte sie fest, dass er ihr ganz {{c1::fremd geworden war}}	
 Der Autor {{c1::erzählt}} in seinem Buch {{c1::von}} fremden Ländern und Völkern	
@@ -1357,7 +1354,7 @@ Hast du ihn {{c2::vom Tod}} seines Vaters {{c1::unterrichtet}}?
 Er {{c1::unterrichtet}} (Musik) an der Volksschule	
 Die Geschichte {{c1::lehrt (uns)}}, dass Menschen ihre Probleme selten {{c3::ohne Gewalt}} {{c2::lösen}} können	
 Er {{c1::lehrt}} Mathematik und Biologie {{c2::an einem Gymnasium}}	
-an einer {{c2::Hochschule}}, {{c3::Universität}} {{c1::lehren}}	
+an einer {{c2::Hochschule}}, {{c3::Universität}} {{c1::lehren}}	在高校、大学授课
 Der Deutschlehrer {{c1::lehrt}} {{c2::die Kinder}} {{c3::Rechtschreibung}} und {{c4::Grammatik}}	
 jemanden {{c1::lesen}}, {{c2::schreiben}}, {{c3::rechnen}}, {{c4::tanzen}} lehren	
 jemanden {{c1::schwimmen}}, {{c2::tauchen}}, segeln lehren	
