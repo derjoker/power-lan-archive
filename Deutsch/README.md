@@ -1,0 +1,3 @@
+# Deutsch
+
+- wachsen, stagnieren, schrumpfen
