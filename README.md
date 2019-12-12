@@ -1,5 +1,5 @@
-# power-lan-german
+# Power Language
 
-Deutsch.
-
-核心词汇，核心用法和意义
+- 核心词汇
+- 用法意义
+- 扩展阅读
