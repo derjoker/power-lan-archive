@@ -1,8 +1,8 @@
 Ich {{c2::mache}} nur {{c1::Spaß}}	
 Aber das ist nur {{c1::Aberglaube}}.	迷信
 Scott Chacon {{c1::pendelt}} zwischen Berlin und Berkeley.	
-{{c1::Vermutlich}} arbeite ich {{c3::deshalb}} {{c2::unheimlich}} gerne in Cafés.	
-Ich kann es außerdem nicht {{c1::ausstehen}}, E-Mails {{c2::über mein Handy}} abzurufen und zu beantworten.	
+{{c1::Vermutlich}} arbeite ich {{c3::deshalb}} {{c2::unheimlich gerne}} in Cafés.	
+Ich kann es {{c3::außerdem}} nicht {{c1::ausstehen}}, E-Mails {{c2::über mein Handy}} abzurufen und zu beantworten.	
 Eine zweite Ladestation {{c1::stand}} am Frankfurter Flughafen {{c2::zur Verfügung}}.	
 Spätestens 2021 sollen entsprechende Busse {{c1::zum Einsatz}} kommen.	
 Zu deren {{c1::Zuverlässigkeit}} in {{c2::technischer}} Hinsicht gibt es {{c3::bislang}} keine Informationen.	
@@ -10,91 +10,163 @@ Zu deren {{c1::Zuverlässigkeit}} in {{c2::technischer}} Hinsicht gibt es {{c3::
 {{c1::Lange Rede}}, {{c2::kurzer Sinn}}: Man sollte sich ernsthaft mit der Frage {{c3::beschäftigen}}, was man eigentlich will.	
 Deswegen {{c1::verlangt}} der Afrikaner nun 1000 Euro {{c2::Entschädigung}}.	
 {{c2::Manche}} würden sagen, das ist ein {{c1::Abstieg}}.	
-Das ist eine gute {{c1::Frage}} und im Moment noch {{c3::schwierig}} zu {{c2::beantworten}}.	
-Immer mehr Betriebe können ihre Ausbildungsplätze nicht {{c1::besetzen}}, obwohl gleichzeitig viele junge Leute {{c2::ohne Stelle bleiben}}. Das liegt auch daran, dass die Jugendlichen bei der {{c3::Berufswahl}} {{c4::wählerischer}} werden.	
+Das ist {{c1::eine gute Frage}} und {{c4::im Moment}} noch {{c3::schwierig}} zu {{c2::beantworten}}.	
+Immer mehr {{c3::Betriebe}} können ihre Ausbildungsplätze nicht {{c1::besetzen}}, obwohl {{c4::gleichzeitig}} viele junge Leute {{c2::ohne Stelle bleiben}}.	
 Für die {{c1::Frühschicht}} musste sie jeden Tag um drei Uhr {{c2::aufstehen}}, {{c3::Überstunden}} waren {{c4::Alltag}}.	
-Man hatte sich in den vergangenen Wochen fast schon daran {{c1::gewöhnt}}: an den {{c2::Rauch}} in der Luft, an die {{c3::eingeschränkte}} {{c4::Sicht}}, an Passanten mit Atemschutzmasken, an die feine schwarze Ascheschicht im Wohnungsinneren und im Meerwasser.	
 Die Switch ist eine Hybridkonsole, mit der man {{c1::überall}} spielen kann. {{c2::Unterwegs}}, {{c3::im Bett}}, {{c4::auf dem Sofa}} {{c5::am Fernseher}}.	
-Wenn die Lieferung nicht mit dem Ziel {{c1::übereinstimmt}}, dann ändere den Prozess.	
 Sein {{c1::Vertrag}} wäre noch bis 2019 {{c2::gelaufen}}.	
-Die japanische Technnik-Firma Sony gehört zu den weltweit {{c1::be- und anerkanntesten}} Herstellern seiner Branche.	
-"Die {{c2::Verträge}} mit Zulieferern, die es {{c3::binnen}} dieser Woche nicht schaffen, Teslas ""Exzellenz-{{c5::Anforderungen}}"" zu {{c4::erfüllen}}, würden am Montag {{c1::gekündigt}}."	
+Die japanische Technnik-Firma Sony {{c2::gehört zu}} den weltweit {{c1::be- und anerkanntesten}} Herstellern {{c3::seiner Branche}}.	
+"Die {{c2::Verträge}} mit Zulieferern, die es {{c3::binnen dieser Woche}} nicht schaffen, Teslas ""Exzellenz-{{c5::Anforderungen}}"" zu {{c4::erfüllen}}, würden am Montag {{c1::gekündigt}}."	
 Die beiden Plattformen zu einer {{c1::verschmelzen}} zu lassen, würde {{c3::keinerlei Sinn}} {{c2::ergeben}}.	
 Apple {{c1::stellt}} neues, günstiges iPad {{c1::vor}}.	
 Es ist {{c1::von Vorteil}}, wenn Du bereits an Open-Source-Projekten mitgewirkt hast.	
 Die neuen {{c1::Regeln}}, um Zukäufe zu {{c2::beschränken}}, haben ihre Wirkung nicht {{c3::verfehlt}}.	
-Ein sechster Test könnte nach {{c2::Einschätzung}} von Experten jederzeit {{c1::vorgenommen}} werden.	
-Die spanische Flagge {{c1::weht}} auf dem Dach der Nationalbibliothek in Madrid.	
+Ein sechster Test könnte {{c2::nach Einschätzung}} von Experten {{c3::jederzeit}} {{c1::vorgenommen werden}}.	
+Die spanische {{c3::Flagge}} {{c1::weht}} {{c2::auf dem Dach}} der Nationalbibliothek in Madrid.	
 Unternehmen {{c1::verhängen}} einen E-Mail-Stopp an den Wochenenden.	
 Den Mitarbeiter vor {{c2::Überarbeitung}} zu {{c1::bewahren}}, das ruft in der Regel auch den Betriebsrat auf den Plan.	
-Der DFB {{c2::beweise}} mit den Nationalmannschaften Mut, Innovationskraft und den unbedingten Willen zum Erfolg: „Diese {{c1::Werte}} gelten auch für Volkswagen.“	
 Der Mann hatte {{c2::die Tat}} {{c1::gestanden}}.	
-Die einzige {{c2::verlässliche}} Konstante sind {{c3::steigende}} Ausgaben und nicht {{c1::eingehaltene}} Termine.	
+Die einzige {{c2::verlässliche}} Konstante sind {{c3::steigende Ausgaben}} und {{c1::nicht eingehaltene Termine}}.	
 Roger Federer ist einfach nicht zu {{c1::stoppen}}.	
-Beide triumphierten auf dem heiligen Rasen bis jetzt sieben Mal im {{c1::Herrreneinzel}}.	
-Genauso ist ihm {{c1::das Scheitern}} in New York 2014 {{c2::im Gedächtnis}}.	
+Beide triumphierten auf dem heiligen Rasen bis jetzt sieben Mal {{c1::im Herrreneinzel}}.	
 Nun gibt es einen deutschsprachigen {{c1::Ableger}}. Die Wissensplattform Quora gibt es nun auch in deutscher Sprache.	
 Arjen Robben solle seine {{c2::Rückennummer}} an James {{c1::abgeben}}.	
 {{c1::Neuzugang}} James Rodriguez (M.) selbst ist mit seiner Nummer elf zufrieden.	
 Jeder möchte {{c1::ein Stück}} {{c2::von dem Kuchen}}.	
-Seitdem sind Monate {{c1::vergangen}}, {{c2::Gespräche}} hat es gegeben, aber bislang noch kein {{c3::Ausweg}}.	
-Konflikte gab es nach {{c1::Auskunft}} der Uni bislang keine.	
-Liu war Ende 2009 zu elf Jahren {{c2::Haft}} {{c1::verurteilt}} worden.	
-Einen anderen Meister als die Bayern dürfte die Bundesliga {{c2::auf Jahre}} nicht {{c1::erleben}}.	
-{{c1::Anspannung}} lag {{c2::über der Stadt}} wie die {{c3::Ruhe}} {{c4::vor dem Sturm}}.	
+Seitdem sind Monate {{c1::vergangen}}, {{c2::Gespräche}} hat es gegeben, aber bislang noch {{c3::kein Ausweg}}.	
+Konflikte gab es {{c1::nach Auskunft}} der Uni {{c2::bislang}} {{c3::keine}}.	
+Liu war Ende 2009 zu {{c2::elf Jahren Haft}} {{c1::verurteilt worden}}.	
+{{c1::Anspannung}} lag {{c2::über der Stadt}} wie {{c3::die Ruhe}} {{c4::vor dem Sturm}}.	
 {{c1::Kaum zu Hause}}, mache ich den Livestream an und hoffe, dass nicht noch eine Schreckensmeldung {{c2::auftaucht}}.	
 Normalerweise ist die {{c1::Schnittmenge}} zwischen diesen beiden Interessen nicht besonders groß.	交集
 Köln ist auf {{c1::Rang}} fünf und verweist Paris auf den sechsten {{c2::Platz}}.	
 Ich konnte immer gut {{c1::trennen}} zwischen Arbeit und Persönlichem.	
-Die Europäische Kommission {{c1::verhängte}} im vergangenen Jahr zusammen 2,9 Milliarden Euro {{c2::Buße}}.	
-Scania ist eine {{c1::Tochtergesellschaft}} von Volkswagen, ebenso wie MAN.	
-Wie die {{c1::Akkulaufzeit}} in der {{c2::Praxis}} {{c3::aussieht}}, haben die Tester von connect {{c4::unter die Lupe}} genommen.	
+Die Europäische Kommission {{c1::verhängte}} im vergangenen Jahr {{c3::zusammen}} 2,9 Milliarden Euro {{c2::Buße}}.	
+Scania ist {{c1::eine Tochtergesellschaft}} von Volkswagen, {{c2::ebenso}} wie MAN.	
+Wie die {{c1::Akkulaufzeit}} {{c2::in der Praxis}} {{c3::aussieht}}, haben die Tester von connect {{c4::unter die Lupe}} genommen.	
 {{c1::Hotelketten}} werden ihre Zimmer mit den Assistenten {{c2::ausrüsten}}.	
 Ich bin {{c1::jedem}} {{c2::dankbar}}.	
 Wir haben viel zusammen {{c1::erlebt}}. Ich hoffe, dass es ihn auch etwas {{c2::schmerzt}}, dass er mich nicht mehr hat. Nicht nur am Kartentisch.	
 Bundeskanzlerin Angela Merkel {{c2::zeigte sich}} {{c1::zuversichtlich}}, dass das bis 2015 zu schaffen ist.	
-Sie haben kein {{c1::sauberes}} Trinkwasser, {{c2::leiden an Hunger}}, müssen arbeiten, können nicht {{c3::zur Schule gehen}}.	
+Sie haben kein {{c1::sauberes Trinkwasser}}, {{c2::leiden an Hunger}}, müssen arbeiten, können nicht {{c3::zur Schule gehen}}.	
 Ob die {{c1::Freundschaft}} {{c3::siegt}} oder die {{c2::Konkurrenz}}, gibt es im Kino zu sehen.	
 Einen Export als ODP {{c1::sieht}} Google Docs zumindest derzeit nicht {{c1::vor}}.	
 Wir wollen ja auch noch ein Album {{c1::aufnehmen}}.	
-Ich wollte mir die {{c2::Gelegenheit}} nicht {{c1::entgehen}} lassen, die Mannschaft zu begrüßen.	
+Ich wollte mir {{c2::die Gelegenheit}} nicht {{c1::entgehen}} lassen, die Mannschaft zu begrüßen.	
 Uns {{c1::verrät}} er, warum Umweltberufe {{c2::Zukunft}} haben.	
-In der Schule läuft das Lernen anders: Es gibt {{c1::Aufsätze}}, {{c2::Klassenarbeiten}} und mündliche {{c3::Prüfungen}}.	
 Jedoch gab es sehr wenig {{c1::Forschung}}, die {{c2::sich}} mit dieser Theorie {{c2::beschäftigt}}.	
 Diese Scans {{c2::lieferten}} weitere {{c1::Belege}} dafür, dass Verhaltensstörungen echte psychiatrische Störungen sind.	
-Wir benutzten die Scans, um die Dicke von 68 unterschiedlichen Teilen der äußeren Hirnrinde zu messen – diese hat unter Anderem Einfluss auf Bereiche wie {{c1::Bewusstsein::意识}}, {{c2::Wahrnehmung::感知}}, {{c3::Aufmerksamkeit::注意力}}, {{c4::Erinnerung::记忆}} und {{c5::Sprache::语言}}.	
 Sein Twitter Account {{c1::zählt}} rund 24,7 Millionen Follower.	
 Spotify {{c1::benachteiligt}} nun {{c2::bewusst}} Künstler, die exklusive Deals mit Apple haben.	
 Stöger {{c1::spottet}} über den schwachen Auftritt seiner Mannschaft.	
-Die Gegner werden wieder stärker und die {{c2::Befürchtung}}, dass sich {{c1::die Geschichte}} wiederholen könnte, größer.	历史
+Die Gegner werden wieder stärker und {{c2::die Befürchtung}}, dass sich {{c1::die Geschichte}} wiederholen könnte, größer.	历史
 {{c1::Losglück}} für Bayern München: Der deutsche Rekordmeister {{c2::trifft}} im Viertelfinale der Champions League {{c3::auf}} den FC Sevilla.	
-Der FC Bayern könnte {{c2::auf}} einen richtig schweren Gegner {{c1::treffen}}, aber auch mit Sevilla oder Rom ein leichtes {{c3::Los}} {{c4::ziehen}}.	
-Das Thema {{c1::schwebt}} seit Monaten über dem Verein und nimmt immer mehr {{c2::Raum}} ein.	
-Die erste Lieferung ist noch {{c1::umsonst}}, danach berechnet Rewe seinen Kunden für jede Lieferung 5,90 Euro, das bleibt auch so.	
-In der Fußball-Champions-League {{c1::unterlag}} Bayern München im Halbfinal-{{c2::Hinspiel}} Real Madrid mit 1 zu 2.	Hinspiel 首回合比赛 <> Rückspiel 次回合比赛
-In der App {{c1::erhält}} man einen {{c2::Überblick}} über die {{c3::gelaufenen Schritte}}.	
-Der DFB hat bei der UEFA seine {{c1::Bewerbung}} für die {{c2::Austragung}} der Fußball-EM 2024 offiziell {{c3::eingereicht}}.	
-Es bleibt {{c1::abzuwarten}}, inwieweit der neue {{c2::Schritt}} die {{c3::Verbreitung}} von Fake News über Facebook eindämmen kann.	
+Der FC Bayern könnte {{c2::auf einen richtig schweren Gegner}} {{c1::treffen}}, aber auch mit Sevilla oder Rom {{c3::ein leichtes Los}} {{c4::ziehen}}.	
+Das Thema {{c1::schwebt}} seit Monaten {{c3::über dem Verein}} und nimmt immer mehr {{c2::Raum}} ein.	
+Die erste Lieferung ist noch {{c1::umsonst}}, danach {{c2::berechnet}} Rewe {{c3::seinen Kunden}} {{c4::für jede Lieferung}} 5,90 Euro, das bleibt auch so.	
+In der Fußball-Champions-League {{c1::unterlag}} Bayern München {{c2::im Halbfinal-Hinspiel}} Real Madrid mit 1 zu 2.	Hinspiel 首回合比赛 <> Rückspiel 次回合比赛
+{{c4::In der App}} {{c1::erhält}} man {{c2::einen Überblick}} über {{c3::die gelaufenen Schritte}}.	
+Der DFB hat bei der UEFA {{c1::seine Bewerbung}} für {{c2::die Austragung}} der Fußball-EM 2024 offiziell {{c3::eingereicht}}.	
+Es bleibt {{c1::abzuwarten}}, inwieweit {{c2::der neue Schritt}} {{c3::die Verbreitung}} von Fake News über Facebook {{c4::eindämmen}} kann.	
 {{c1::Zunehmend}} begegnen uns KI-Systeme {{c2::im Alltag}}.	
 Facebook will künftig sogenannte Fake-News kleiner {{c1::darstellen}}, damit sie beim Durchscrollen leichter {{c2::übersehen}} werden.	
 Am seitlichen Knopf {{c3::drücken}}, um das Display {{c2::einzuschalten}} oder einfach {{c1::den Arm anheben}}, so als würde man auf die Uhr {{c4::schauen}}, dann {{c5::schaltet sich}} das Gerät automatisch {{c5::an}}.	
 Laut Hersteller soll die {{c1::Akkulaufzeit}} des Trackers etwa fünf Tage {{c2::betragen}}, was ich gut {{c3::bestätigen}} kann.	
-{{c2::Sowohl}} der Tracker {{c3::als auch}} die App zeigen {{c1::auf Abruf}} die Herzfrequenz an.	
+{{c2::Sowohl}} der Tracker {{c3::als auch}} die App {{c4::zeigen}} {{c1::auf Abruf}} die Herzfrequenz {{c4::an}}.	
 Heute {{c1::verkünde}} ich, dass die USA aus dem Iran-Atomabkommen {{c2::ausscheiden}}.	
 Die Amerikaner sind es {{c1::satt}}, {{c2::ausgenutzt}} zu werden.	
-In der Nacht im Süden {{c1::vereinzelt}} Schauer und Gewitter, sonst meist {{c2::trocken}}.	时有
-Nach dem tödlichen {{c1::Zugunglück}} in Bayern hat die Staatsanwaltschaft Augsburg {{c2::Haftbefehl}} gegen den zuständigen Fahrdienstleiter {{c3::erlassen}}.	
+In der Nacht im Süden {{c1::vereinzelt}} Schauer und Gewitter, sonst {{c3::meist}} {{c2::trocken}}.	时有
 Am Bahnhof im bayerischen Aichach sind ein Personen- und ein {{c2::Güterzug}} {{c1::zusammengestoßen}}.	
-Eine Lebensbalance in den Bereichen {{c1::Leistung}}, {{c2::Gesundheit}}, {{c3::Beziehungen}} und {{c4::Lebenssinn}} macht uns gesund und glücklich.	
+Eine Lebensbalance {{c4::in den Bereichen}} {{c1::Leistung}}, {{c2::Gesundheit}}, Beziehungen und {{c3::Lebenssinn}} macht uns gesund und glücklich.	
 Die beste Möglichkeit, um mit der {{c1::Angst}}, {{c2::Wut}}, {{c3::Trauer}} und {{c4::Verzweiflung}} umzugehen, ist, offen über seine Gefühle zu sprechen.	害怕，生气，伤心，绝望
-{{c2::Knapp}} die {{c1::Hälfte}} (47 Prozent) der Menschen, die selbst motorisiert unterwegs sind, {{c3::regen sich}} am meisten über andere Autofahrer {{c3::auf}}.	
+{{c2::Knapp die Hälfte}} (47 Prozent) der Menschen, die selbst motorisiert unterwegs sind, {{c3::regen sich}} am meisten {{c4::über andere Autofahrer}} {{c3::auf}}.	
 Das Ziel ist immer, möglichst schnell von A nach B zu kommen. Alles, was mich dabei {{c2::aufhält}}, ist ein {{c1::Ärgernis}}.	
 {{c2::Der Rekord}} ist {{c1::Nebensache}}.	次要，小事
-{{c2::Klar}} ist es noch nicht, wer mit wem die Regierung {{c1::bilden}} wird.	
+{{c2::Klar}} ist es noch nicht, wer {{c3::mit wem}} die Regierung {{c1::bilden}} wird.	
 {{c1::Geboren}} ist Merkel 1954 in Hamburg, {{c2::aufgewachsen}} in Brandenburg.	
 Das südafrikanische Bussystem {{c1::gleicht}} einem Labyrinth.	
 In vielen Ländern - {{c3::darunter}} Italien und Spanien - {{c1::schrumpft}} die {{c2::Wirtschaft}} allerdings immer noch.	
 Ein ähnliches Bild {{c1::ergab sich}} in Frankreich.	
-Wir werden keine {{c2::Mühen}} {{c1::scheuen}}, um dies zu erreichen.	
-Es wird ein Finale, in dem wir {{c1::auf Leben und Tod}} kämpfen werden.	
+Wir werden {{c1::keine Mühen scheuen}}, um dies zu {{c2::erreichen}}.	
+Es wird {{c2::ein Finale}}, in dem wir {{c1::auf Leben und Tod kämpfen}} werden.	
 Der frühere Fußball-Nationalspieler {{c1::wirft}} Muslimen {{c1::vor}}, chinesische Menschenrechtsverletzungen gegen Uiguren {{c3::schweigend}} {{c2::hinzunehmen}}.	
+Der Weltmeister von 2014 blieb {{c1::unauffällig}} und wurde nach 59 Minuten {{c2::ausgewechselt}}.	
+Er hat {{c1::Schlagzeilen}} vor dem Spiel {{c2::gemacht,}} aber nicht mit dem Spiel	
+In zwei Jahren könnten {{c1::Fernzüge}} zwischen Hamburg und Berlin {{c2::alle 30 Minuten}} {{c3::fahren}}.	
+{{c5::Die Hälfte}} der {{c3::Summe}} {{c1::entfällt}} {{c2::auf}} den {{c4::Großauftrag}} für den ICE4.	
+Es könnte auch ein {{c1::Doppelstockzug}} werden.	
+"Einem Bericht der Tageszeitung ""The Sun"" zufolge beläuft sich {{c1::der Wert}} der {{c2::gestohlenen}} Schmuckstücke {{c3::auf 50 Millionen Pfund}}, {{c4::umgerechnet}} {{c5::sind}} das fast 60 Millionen Euro."	
+Das {{c1::liegt auch daran}}, dass {{c2::die Jugendlichen}} {{c3::bei der Berufswahl}} {{c4::wählerischer}} werden.	
+Was {{c2::passiert}} mit {{c3::ausgedienten}} {{c1::Akkus}} aus Elektroautos?	
+Am Dienstag, nach {{c4::Bekanntwerden}} {{c3::der Übernahme,}} {{c1::kletterte}} {{c2::die Aktie}} noch einmal um vier Prozent auf 85,75 Dollar.	
+{{c1::Die Gefahr,}} dass {{c4::Weihnachtsgeschenke}} nicht {{c5::rechtzeitig}} {{c3::ankommen}}, dürfte jedoch auch in diesem Jahr {{c2::gering}} sein.	
+{{c1::Einer Prognose zufolge}} werden die Airlines mehr als neun Milliarden {{c3::Passagiere}} {{c2::befördern.}}	
+Die Polizei {{c1::ermittelt}} {{c2::gegen}} einen 14-{{c3::Jährigen}}.	
+Die Daten {{c1::decken sich}} {{c2::mit einer Studie}} der Bertelsmann Stiftung.	
+Wann das {{c1::Flugverbot}} {{c2::aufgehoben wird}}, {{c4::bleibt}} {{c3::ungewiss.}}	
+Das Update muss von Aufsichtsbehörden {{c1::genehmigt}} werden, bevor die Flugzeuge wieder {{c2::abheben}} dürfen.	
+{{c1::Unklar}} ist noch {{c2::das Schicksal}} der rund 12000 Mitarbeiter, die in der Produktion der 737 Max in der Nähe von Seattle {{c3::beschäftigt}} sind.	
+Zudem können {{c2::weitere Strafen}} {{c1::anfallen.}}	
+"Eigentlich {{c3::dachte ich mir}} immer: ""Warum macht jeder {{c1::so einen großen Wirbel}} darum, 30 zu werden? Das ist doch {{c2::keine große Sache}}."""	
+Oh mein Gott, ich fühle mich so {{c1::gestresst}} und {{c2::ängstlich.}}	
+Boeing spielt eine {{c1::tragende}} Rolle in der amerikanischen Wirtschaft.	
+{{c2::Der Fifa}} {{c1::gefällt}} {{c3::vermutlich}} nicht, dass ich das sage.	FIFA, Fifa, die
+Das für Samstag {{c1::angesetzte}} Spiel gegen West Ham United wurde {{c2::verlegt}} – dann könnte Liverpool im WM-Finale stehen.	
+Der {{c1::überwiegende}} Teil der Deutschen aber isst Fleisch.	
+{{c6::Jeder Deutsche}} {{c3::gibt}} {{c1::im Durchschnitt}} 14 Prozent {{c2::seines Einkommens}} für {{c5::Nahrungsmittel}} {{c4::aus}}.	
+Bis heute hat Russland kein {{c2::Gesetz}}, das Frauen und Kinder {{c1::gegen häusliche Gewalt}} {{c3::schützt}}.	
+Nach {{c1::drei Jahren Ehe}} zieht sie 2018 aus der {{c2::gemeinsamen}} Wohnung.	
+Sie will Igor nicht mehr {{c1::begegnen}}.	
+Erst {{c1::bestritt}} er das Mobbing, nun {{c2::räumte}} er {{c4::die Tat}} doch {{c3::ein}}.	
+Verspätung der Müllabfuhr {{c1::rettet}} ausgesetztem Baby {{c2::das Leben}}.	
+Die Kölner {{c1::stehen}} {{c6::in der Bundesliga}} {{c2::auf dem vorletzten Platz}} und {{c3::kämpfen}} mit dem neuen Trainer Markus Gisdol {{c4::gegen den erneuten Abstieg}} {{c5::in die zweite Liga}}.	
+Schon wenn der erste Zahn {{c1::durchbricht}}, sollten Eltern {{c2::mit dem Putzen}} beginnen.	
+Am besten {{c1::putzen}} Eltern Kleinkind-Zähne {{c2::mit einer Bürste}} mit {{c3::kleinem Kopf}} und {{c4::weichen Borsten}}.	
+Eine elektrische {{c1::Zahnbürste}} habe bei Kindern keine {{c2::Vorteile}}, was {{c4::die Sauberkeit}} der Zähne {{c3::angeht}}.	
+Chinas Gruben {{c1::gelten als}} immens {{c2::gefährlich}}.	
+Erst {{c2::am Vortag}} waren in einer Grube 14 Bergleute {{c1::durch einen Gasaustritt}} ums Leben gekommen.	
+Der neue Konzern {{c1::nimmt sich vor}}, 8,7 Millionen Fahrzeuge pro Jahr {{c2::abzusetzen}}.	
+Wir haben {{c1::den Satz}} {{c2::gelöscht}}.	
+Der Vorsitzende hat das Thema {{c1::auf seiner Agenda}} ganz {{c3::nach oben}} {{c2::gesetzt}}.	
+Die Regierung in Beirut {{c2::bestreitet}} aber, {{c3::in die Flucht}} {{c1::verwickelt zu sein}}.	
+Sie {{c1::erhöhten sich}} {{c2::gegenüber dem Vorjahresmonat}} um 2,0 Prozent.	
+Weinstein {{c1::droht}} eine {{c2::lebenslange}} {{c3::Haftstrafe}}	
+Viele chinesische Familien {{c1::schicken}} {{c3::ihre Kinder}} {{c2::zur Nachhilfe}}, wir tun das nicht.	
+Ich möchte seinen {{c2::Geist}} {{c1::öffnen}}.	
+Demnach {{c3::ereignete sich}} das Unglück bereits am Montag in der Stadt Xining (Provinz Qinghai), nachdem an einer Bushaltestelle plötzlich Teile {{c1::der Fahrbahn}} und {{c2::des Gehweges}} weggebrochen waren.	
+Huawei {{c1::weist}} {{c2::Vorwürfe}} {{c3::erneut}} {{c1::zurück}}	
+{{c1::Bringt}} {{c2::ein Wechsel}} {{c3::ins Ausland}} {{c4::die Lösung}}?	
+{{c2::Die Regierung}} in Tokio {{c1::bemühte sich}}, {{c3::die Öffentlichkeit}} zu {{c4::beruhigen}}.	
+Ad-Blocker sind {{c2::vielen Internetseiten}} {{c1::ein Dorn im Auge}}.	
+{{c3::Erklärungen}} {{c1::stehen}} {{c2::in Klammern}}.	
+{{c1::Die Schlacht}} der Bastarde	
+In Japan gibt es {{c1::ein Sprichwort}}: {{c2::Die Hochzeit}} ist {{c3::das Grab}} des Lebens.	
+{{c2::Wegen des Verdachts}} {{c3::auf Absprachen}} {{c4::beim Einkauf von Stahl}} hat das Bundeskartellamt sechs Autobauer und Zulieferer {{c1::durchsucht}}.	
+Volkswagen {{c2::stimmt}} {{c1::Vergleich}} {{c2::zu}}: 15 Milliarden Dollar für Diesel-Gate	
+{{c1::Grundsätzlich}} dürfen Telefone {{c3::von der Polizei}} nur {{c2::abgehört werden}}, wenn ein Richter das {{c4::anordnet}}.	
+Ob das Erfolgsrezept auch bei Instagram {{c2::anwendbar}} und {{c3::erfolgreich}} sein wird, bleibt {{c1::abzuwarten}}.	
+{{c1::Die Stärke}} des Lichts, das {{c2::vom Display ausgeht}}, {{c3::beeinflusst}} ebenfalls unsere Augen. Zu {{c4::grelles}} Licht kann schmerzen, zu {{c5::dumpfes}} Licht strengt an.	
+Was ist {{c1::das Schlimmste}}, das wir {{c2::einem Partner antun}} können?	
+Ob {{c3::in der Schule}}, {{c4::in der Uni}} oder {{c5::im Beruf}}, ständig müssen wir neue Informationen {{c1::aufnehmen}} und {{c2::verarbeiten}}.	
+Software ist dann frei, wenn sie mit den vier Freiheiten (nämlich sie zu {{c1::verwenden}}, zu {{c2::verbreiten}}, zu {{c3::verstehen}} und zu {{c4::ändern}}) ausgestattet ist.	
+{{c1::Auswandern}}. {{c2::In ein anderes Land}} {{c3::ziehen}}, dort {{c4::leben}}.	
+Es kommt (wie immer) drauf an. {{c1::Nämlich}} {{c3::vor allem}} auf {{c2::eine ausgewogene Ernährung}}.	
+So oft {{c1::berührst}} du {{c2::täglich}} {{c3::dein Smartphone}}	
+{{c1::Du musst dir}} {{c2::etwas Besseres}} {{c3::einfallen lassen}}, {{c4::etwas Neues}}.	
+So {{c1::fängst}} du Pokémon: {{c2::Erscheint}} eins, musst du nur auf den Ball {{c3::tippen}} und nach oben {{c4::wischen}}.	
+{{c1::Die Passworte}} {{c2::kann ich mir}} {{c3::schon länger}} {{c4::nicht mehr merken}}.	
+{{c1::Selbstgespräche}} helfen, {{c2::die Gedanken}} zu {{c3::sortieren}} und {{c4::abzuwägen}}, welche davon wichtig sind und schließlich {{c5::eine Entscheidung zu treffen}}.	
+{{c1::Schließlich}} ist schlafen {{c2::ein grundlegendes Bedürfnis}} {{c3::aller Tiere}}.	
+Es ist {{c1::der Grund}}, {{c2::warum}} {{c4::so viele Junge}} in Großbritannien gegen den Brexit {{c3::gestimmt}} haben.	
+Der {{c1::24-jährige}} Fahrer eines VW hat am Donnerstagabend einen Hasen {{c2::überfahren}}.	
+Wie viele Episoden {{c1::die achte Staffel}} {{c2::umfassen}} soll, ist bisher {{c3::noch nicht bekannt}}.	
+Was dich nicht {{c1::umbringt}}, macht dich {{c2::stärker}}.	
+Wer ständig {{c1::unterbrochen wird}}, {{c2::verlernt}} es, sich länger {{c3::auf eine Sache}} zu konzentrieren.	
+Ich {{c1::vertraue}} {{c2::unserem Team}}.	
+Was {{c1::sagt}} {{c2::eine Trennung}} {{c3::vorher}}?	
+Die Brexit-{{c1::Befürworter}} {{c2::gewannen}} {{c3::das Referendum}} in Großbritannien.	公投
+{{c1::Auf einer Skala}} {{c2::von eins bis zehn}}, wie würdest du unsere Performance {{c3::bewerten}}?	
+{{c1::Die Zahl}} {{c2::gibt an}}, {{c3::wie viele andere Menschen}} {{c4::ein Infizierter}} {{c5::durchschnittlich}} {{c6::ansteckt}}.	
+Werden deutsche Unternehmen das Coronavirus {{c1::überstehen}}?	
+Haben Sie ein {{c1::Metermaß}}, {{c2::damit}} ich {{c3::Abstand messen}} kann?	
+Was {{c1::kommt sicher}}, was ist {{c2::im Gespräch}}?	

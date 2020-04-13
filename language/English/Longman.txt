@@ -1,9 +1,9 @@
 Poor living conditions {{c1::breed}} violence and despair.	贫困的生活条件滋生暴力和绝望情绪。
-Eagles {{c1::breed}} during the cooler months of the year.	鹰在一年中较凉爽的季节交配繁殖。
-{{c1::a sharp bend}} {{c2::in}} the road	路上的一个急转弯
+Eagles {{c1::breed}} during {{c2::the cooler months}} of the year.	鹰在一年中较凉爽的季节交配繁殖。
+{{c1::a sharp bend}} {{c2::in the road}}	路上的一个急转弯
 The stones were then {{c1::rounded}}, {{c2::polished}} and {{c3::engraved}}.	接着石头被打圆﹑磨光﹑刻上图案。
 In 1972, Nixon himself went to China to set the {{c1::seal}} on the new relationship.	1972年尼克松亲自访华，以确立新的外交关系。
-A number of employers have already given their {{c1::seal}} of approval to the {{c2::scheme}}.	一些雇主已经对这项计划表示认可。
+A number of employers have already given their {{c1::seal of approval}} to the {{c2::scheme}}.	一些雇主已经对这项计划表示认可。
 The document {{c1::carried}} the {{c2::seal}} of the governor’s office.	文件上盖有州长办公室的章。
 an airtight {{c1::seal}} around the windows	窗户四周的密封条
 a young film director who is {{c1::on the crest of a wave}} at the moment	目前正处于巅峰时期的一位年轻电影导演
@@ -31,9 +31,9 @@ Window locks are an effective deterrent against {{c1::burglars}}.	窗锁可以�
 Several gangs were {{c1::operating}} in the area.	有好几个犯罪团伙在这个地区活动。
 {{c1::Armed gangs}} have hijacked lorries.	武装犯罪团伙劫持了卡车。
 There were always {{c1::gangs of kids}} hanging around the mall.	购物中心一带总有一帮帮的年轻人在游荡。
-the problem of {{c1::inner-city}} gang violence	老城区的团伙暴力问题
+the problem of {{c1::inner-city}} gang {{c2::violence}}	老城区的团伙暴力问题
 two rival {{c1::street gangs}}	两个敌对的街头流氓团伙
-He was {{c1::busted}} by US inspectors at the border.	他在边境被美国巡官拘捕。
+He was {{c1::busted}} {{c2::by US inspectors}} {{c3::at the border}}.	他在边境被美国巡官拘捕。
 Tony {{c1::busted}} the door down.	托尼把门砸烂了。
 a businessman who {{c1::swindled}} investors out of millions of pounds	一个诈骗了投资者数百万英镑的商人
 The sky was {{c1::overcast}} and a light rain began to fall.	天空阴云密布，并下起了小雨。
@@ -49,7 +49,7 @@ She has a {{c1::bump}} on the back of her head.	她的后脑勺上肿起了一�
 Hall was found guilty of {{c1::perjury}}.	霍尔被判犯有伪证罪。
 We {{c1::marched}} 50 km across the foothills.	我们穿过山麓丘陵行进了50公里。
 An {{c1::estimated}} 5,000 people {{c2::marched}} through the city to {{c3::demonstrate}} against the factory {{c4::closures}}.	大约有五千人在市里游行示威，抗议关闭工厂。
-Brett {{c1::marched}} out of the office, {{c2::slamming}} the door behind him.	布雷特大步走出办公室，砰的一声摔上了门。
+Brett {{c1::marched}} {{c3::out of the office}}, {{c2::slamming the door}} behind him.	布雷特大步走出办公室，砰的一声摔上了门。
 Mr Carter {{c1::marched}} us to the {{c2::principal’s}} office.	卡特先生把我们押到校长办公室。
 an {{c1::amnesty}} {{c2::on}} {{c3::illegal handguns}}	交出非法持有手枪的赦免期
 The government {{c1::granted}} an {{c2::amnesty}} for all {{c3::former}} terrorists.	该政府大赦了所有前恐怖分子。
@@ -61,7 +61,7 @@ It’s company {{c1::policy}} to allow people to work from home.	允许员工在
 a major new {{c1::initiative}} to {{c2::tackle}} street crime	为应对街头犯罪而新推出的一项重大方案
 a peace {{c1::initiative}}	和平倡议
 The government’s {{c2::economic}} {{c1::strategy}} has been criticized by many experts.	政府的经济计划受到许多专家的批评。
-The government has {{c1::introduced}} a new {{c2::scheme}} to help young people find work.	政府开始推行一项帮助青年人就业的新计划。
+The government has {{c1::introduced}} a new {{c2::scheme}} to help young people {{c3::find work}}.	政府开始推行一项帮助青年人就业的新计划。
 a terrorist {{c1::conspiracy}}	恐怖分子的阴谋
 There was a {{c1::plot}} to {{c2::assassinate}} the President.	有人密谋刺杀总统。
 Leaders {{c1::outlined}} a plan to end the fighting.	领导人略述了结束战事的计划。
@@ -86,26 +86,25 @@ I used a bookmark so that I wouldn’t {{c1::lose my place}} (=forget the point 
 a {{c1::brittle}} laugh	冷淡的笑
 Joanna was diagnosed as having {{c1::brittle}} bones.	乔安娜被诊断为骨质疏松。
 She gave him a {{c1::coy}} smile.	她对他含羞一笑。
-{{c1::hunch}} your shoulders: to raise your shoulders into a rounded shape because you are cold, anxious etc	〔因寒冷﹑焦虑等〕耸起双肩
 He had to {{c1::hunch}} over {{c2::the steering wheel}} to see anything.	他不伏在方向盘上就什么都看不见。
-a {{c1::hunched}} figure sitting {{c2::by}} the fire	弓着背坐在火边的一个身影
+a {{c1::hunched}} figure sitting {{c2::by the fire}}	弓着背坐在火边的一个身影
 {{c1::My hunch}} is that she’s his mother.	我的直觉告诉我她是他母亲。
 I had a {{c1::hunch}} that something like this would happen.	我早有预感会发生这样的事情。
 Paul {{c1::gave}} me a big hug.	保罗热情地拥抱了我。
 {{c1::close-fitting}}: clothes are tight and show the shape of your body	〔衣服〕紧身的
-He was hugging {{c1::a big pile of}} books.	他抱着一大堆书。
-The small boats {{c1::hugged}} the coast.	小船贴近海岸航行。
-She stood {{c1::hugging herself}} {{c2::against}} the cold.	在寒冷中，她抱着胳膊瑟缩站立。
-Sarah sat {{c1::on}} the floor, {{c2::hugging}} her {{c3::knees}}.	萨拉抱着双膝坐在地板上。
+He was {{c2::hugging}} {{c1::a big pile of}} books.	他抱着一大堆书。
+The small boats {{c1::hugged}} the {{c2::coast}}.	小船贴近海岸航行。
+She stood {{c1::hugging herself}} {{c2::against the cold}}.	在寒冷中，她抱着胳膊瑟缩站立。
+Sarah sat {{c1::on the floor}}, {{c2::hugging}} her {{c3::knees}}.	萨拉抱着双膝坐在地板上。
 We stood there crying and {{c1::hugging}} each other.	我们站在那里哭着互相拥抱。
-She {{c1::hunched}} {{c2::over}} the desk, telephone {{c3::cradled}} {{c4::at}} her neck.	她伏在桌上，脖子上夹着电话听筒。
-John {{c1::cradled}} the baby {{c2::in}} his arms.	约翰把宝宝轻轻抱在怀里。
+She {{c1::hunched}} {{c2::over}} the desk, telephone {{c3::cradled}} {{c4::at her neck}}.	她伏在桌上，脖子上夹着电话听筒。
+John {{c1::cradled}} the baby {{c2::in his arms}}.	约翰把宝宝轻轻抱在怀里。
 a {{c1::window-cleaner’s}} {{c2::cradle}}	窗户清洁工的吊篮
 She {{c1::replaced}} the {{c2::receiver}} on the {{c3::cradle}}.	她把听筒放回听筒架上。
 {{c1::From cradle to grave}}, the car marks every rite of American passage.	汽车见证着美国人从生到死每一个重要的人生阶段。
 Athens is often regarded as the {{c1::cradle}} of democracy.	雅典常常被认为是民主的发源地。
-She {{c2::rocked}} the {{c1::cradle}} to quieten the child.	她摇动摇篮，让宝宝安静下来。
-Drury {{c1::harboured}} {{c2::bitterness}} in his {{c3::bosom}}.	德鲁里怀恨在心。
+She {{c1::rocked the cradle}} to {{c2::quieten the child}}.	她摇动摇篮，让宝宝安静下来。
+Drury {{c1::harboured}} {{c2::bitterness}} {{c3::in his bosom}}.	德鲁里怀恨在心。
 She {{c1::cradled}} the child {{c3::to}} her {{c2::bosom}}.	她把那孩子抱入怀中。
 the {{c1::poaching}} of elephants for their {{c2::ivory tusks}}	为获取象牙偷猎大象的行为
 characters {{c1::poached}} from Shakespeare	从莎士比亚作品中剽窃的人物
@@ -117,7 +116,7 @@ Local people have {{c1::banded together}} to {{c2::fight}} the company’s plans
 {{c1::rimless}} {{c2::glasses}}	无框眼镜
 {{c1::red-rimmed}} eyes	眼眶红红的眼睛
 {{c1::gold-rimmed}} {{c2::spectacles}}	金边眼镜
-The birds have a distinctive blue {{c1::band}} round their eyes.	这种鸟的眼圈是蓝色的，很特别
+The birds have a {{c2::distinctive}} blue {{c1::band}} {{c3::round their eyes}}.	这种鸟的眼圈是蓝色的，很特别
 a {{c1::slim}} gold {{c2::band}} {{c3::on}} her finger	她手指上戴的一枚细细的金指环
 papers {{c1::held together}} with a {{c2::rubber band}}	用橡皮筋捆在一起的文件
 people within the $20,000-$30,000 {{c1::income band}}	收入在两万至三万美元这个范围的人
@@ -126,49 +125,46 @@ a small {{c1::band}} of volunteers	一小批志愿者
 interviews with {{c1::band members}}	对乐队成员的采访
 the {{c1::rim}} of a glass	玻璃杯口
 He was continually {{c1::dreaming up}} new schemes to {{c2::promote}} and {{c3::enlarge}} the business.	他不断想出奇特的新计划来促进和扩大业务。
-The company has threatened to {{c1::dock}} the officers’ pay.	公司威胁说要给那几名高级职员降薪。
+The company has {{c3::threatened}} to {{c1::dock}} the officers' {{c2::pay}}.	公司威胁说要给那几名高级职员降薪。
 We {{c1::docked}} at Rangoon the next morning.	第二天早晨我们在仰光停靠码头。
 an ocean {{c1::liner}}	远洋客轮
-a dustbin {{c1::liner}}	垃圾袋
 James arrived {{c1::at the docks}} expecting to see a {{c2::luxury liner}}.	詹姆斯来到码头区，希望看到豪华邮轮。
 Three {{c1::defendants}} stood {{c2::in the dock}}.	三名被告站在被告席上。
 {{c1::cash cow}}: something that a company sells very successfully and that {{c2::brings in}} a lot of money	稳赚项目；摇钱树；财源
 {{c1::bullseye/bull’s-eye}}: the centre of a TARGET that you try to hit when shooting or in games like DARTs	靶心
 The King {{c1::decreed}} that there should be an end to the fighting.	国王下旨结束这场战斗。
-The Emperor issued the {{c1::decree}} {{c2::repealing}} {{c3::martial law}}.	皇帝下诏令取消了军事管制。
-O’Malley {{c1::downed}} his opponent in the first {{c2::round}}.	奥马利第一回合就把对手击倒。
-He made only {{c1::a passing reference}} to her achievements.	他仅仅顺便提了提她的成就。
+The Emperor {{c4::issued}} the {{c1::decree}} {{c2::repealing}} {{c3::martial law}}.	皇帝下诏令取消了军事管制。
+O'Malley {{c1::downed}} his opponent {{c2::in the first round}}.	奥马利第一回合就把对手击倒。
+He {{c3::made}} only {{c1::a passing reference}} to her {{c2::achievements}}.	他仅仅顺便提了提她的成就。
 He had only ever shown {{c1::a passing interest}} in sport.	对于体育运动，他只是曾经表现出一时的兴趣。
 {{c1::With each passing day}} she grew stronger.	她一天比一天强壮起来。
 Her {{c1::grief}} became less {{c2::intense}} with the {{c3::passing}} years.	随着光阴的流逝，她的悲伤不那么强烈了。
 A {{c1::passing}} {{c2::motorist}} stopped to help.	一位驾车经过的司机停下来帮忙。
 Michael watched the {{c1::passing}} cars.	迈克尔注视着来往的汽车。
-When someone is {{c1::down on their luck}}, friends are very difficult to find.	一个人穷困潦倒的时候很难找到朋友。
-Well, you’ve passed your second test, so it’s two {{c1::down}} and {{c2::four more to go}}.	好，你已经通过了第二项测验，那么已有两项完成，还有四项。
+Well, you've passed your second test, so it's {{c1::two down}} and {{c2::four more to go}}.	好，你已经通过了第二项测验，那么已有两项完成，还有四项。
 {{c1::Down}} {{c2::with}} the government!	打倒政府！
 The plans were all complete {{c1::down to}} the last detail.	计划连最后的细节都已经敲定了。
 We’re {{c1::down to}} our last five dollars.	我们只剩下最后五美元了。
 Chris’s success is all {{c1::down to him}}.	克里斯的成功完全是他自己努力的结果。
-It’s {{c1::down}} to me to make sure that everyone is happy.	让每个人愉快是我的责任。
+It's {{c1::down to me}} to {{c2::make sure}} that everyone is happy.	让每个人愉快是我的责任。
 if a computer is {{c1::down}}, it is not working	停止工作的，停机的，不运行的
 Tim’s been feeling {{c1::down}}.	蒂姆最近情绪很低落。
-Meg’s been very ill and can’t {{c1::keep}} her food {{c1::down}}.	梅格病得很重，咽不下东西。
-A top quality {{c1::freezer}} for only £20 {{c2::down}} and £5 a week for a year.	一台优质的冰柜只需20英镑首付款，余额每周付5英镑，一年内付清。
+{{c1::A top quality freezer}} {{c2::for only £20 down}} and {{c3::£5 a week for a year}}.	一台优质的冰柜只需20英镑首付款，余额每周付5英镑，一年内付清。
 We’ve already {{c1::put his name down}} for nursery school.	我们已经给他报名上幼儿园了。
 I’ll {{c1::write down}} the address for you.	我替你把地址写下来。
-Let’s {{c1::put you down}} as self-employed.	我们就写你是自由职业者吧。
+Let's {{c1::put you down}} as {{c2::self-employed}}.	我们就写你是自由职业者吧。
 Start by {{c1::jotting down}} a few ideas.	开始先记下几个想法
 Swindon were six points {{c1::down}} {{c2::at one stage}}.	斯温登队一度落后六分。
 Sharif cut his report {{c1::down}} to only three pages.	沙里夫把报告删减到只有三页。
 Turn the radio {{c1::down}}.	把收音机的音量调低。
 House prices have {{c1::come down}} in recent months.	最近几个月房价降下来了。
 Keep your speed {{c1::down}}.	速度放慢。
-The {{c1::coffin}} {{c2::lid}} had been {{c3::nailed}} {{c4::down}}.	棺盖已被钉上。
+The {{c1::coffin}} {{c2::lid}} had been {{c3::nailed down}}.	棺盖已被钉上。
 Chunks of ice came {{c1::floating}} down the river.	大块大块的冰顺河漂下。
-I saw her {{c1::down}} {{c2::at the station}} this morning.	今天早上我在附近的车站看见了她。
+I saw her {{c1::down at the station}} this morning.	今天早上我在附近的车站看见了她。
 They {{c1::sailed}} {{c2::down}} the east {{c3::coast}} of Africa.	他们驾船沿非洲东海岸南下。
 They drove all the way {{c1::down}} from Boston to Miami.	他们从波士顿开车南下一直到迈阿密。
-The bus stop is a bit further {{c1::down}} on the left-hand side.	公共汽车站还要往前一点，在左边。
+{{c3::The bus stop}} is {{c1::a bit further down}} {{c2::on the left-hand side}}.	公共汽车站还要往前一点，在左边。
 There is a pleasant little cafe bar a hundred yards {{c1::down the road}}.	沿这条路往前100码处有家很舒适的小咖啡馆。
 She {{c1::looked down the road}} to see if anyone was coming.	她顺着马路望去，看是否有人来。
 I think I’ll go and {{c1::lie down}} for a while.	我想去躺一会儿。
@@ -177,17 +173,17 @@ The bathroom is {{c1::down}} those stairs.	浴室在那段楼梯下面。
 Ken fell asleep {{c1::face down}} (=with his face towards the ground) {{c2::on the couch}}.	肯趴在长沙发上睡着了。
 Her hair {{c2::came}} {{c1::down}} to her {{c3::waist}}.	她的头发一直垂到腰际。
 She stood {{c1::on a balcony}} looking down into the {{c2::courtyard}}.	她站在阳台上朝下面的院子望去。
-They came {{c1::running down}} the stairs.	他们跑下楼来。
+They came {{c1::running}} {{c2::down the stairs}}.	他们跑下楼来。
 Tears were {{c1::streaming}} down my face.	我泪流满面。
-David {{c1::bent down}} to {{c2::tie}} his {{c3::shoelace}}.	戴维弯腰系鞋带。
+David {{c1::bent down}} to {{c2::tie his shoelace}}.	戴维弯腰系鞋带。
 Nothing could {{c1::fill the gap}} in her life left by {{c2::his passing}}.	他去世后什么都无法填补她生活的空虚。
-The old {{c1::regime}} was defeated, and few people mourned its {{c2::passing}}.	旧政权被打垮，几乎没有人对其消亡感到痛惜。
+The old {{c1::regime}} was {{c3::defeated}}, and few people mourned its {{c2::passing}}.	旧政权被打垮，几乎没有人对其消亡感到痛惜。
 He did mention his brother’s wife, but only {{c1::in passing}}.	他确实提到了他的弟媳，但只是顺带而已。
 The {{c1::passing}} of the {{c2::years}} had done nothing to improve his {{c3::temper}}.	岁月的流逝一点也没有让他的坏脾气有所好转。
 Most of the old traditions have {{c1::died out}} with the {{c2::passing}} of time.	随着时间的推移，大多数古老传统都已消亡。
 With the {{c1::passage}} of {{c2::time}}, things began to look more hopeful.	随着时间的流逝，事情开始显得更有希望。
-The police forced a {{c1::passage}} {{c2::through}} the {{c3::crowd}}.	警察在人群中辟出一条通道。
-They are expecting the new {{c2::legislation}} to have {{c1::quite a rough passage}} (=be discussed and criticized a lot) through Parliament.	他们预计新的法律在议会通过时会遭遇重重困难。
+The police {{c1::forced a passage}} {{c2::through the crowd}}.	警察在人群中辟出一条通道。
+They are expecting {{c2::the new legislation}} to have {{c3::quite}} {{c1::a rough passage}} (=be discussed and criticized a lot) {{c4::through Parliament}}.	他们预计新的法律在议会通过时会遭遇重重困难。
 The {{c1::bill}} was {{c2::amended}} several times during its {{c3::passage}} {{c4::through}} Congress.	那项法案在提交国会通过时作过几次修正。
 Both sides agreed to allow {{c1::the free passage}} of medical supplies into the area.	双方都同意允许医疗用品自由运入该地区。
 He was guaranteed {{c1::safe passage}} out of the country.	他得到保证可以安全离境。
@@ -219,14 +215,14 @@ She’s {{c1::suffering}} from {{c2::severe}} {{c3::depression}}.	她患有严�
 His {{c2::injuries}} were quite {{c1::serious}}.	他的伤势非常严重。
 His slightly {{c1::severe}} {{c2::expression}} {{c3::softened}}.	他原本有点严厉的表情变柔和了。
 a rather {{c1::severe}} {{c2::red-brick}} building	一幢相当简朴的红砖建筑
-The negotiations will be {{c1::a severe test}} of his abilities.	这次谈判将是对他能力的严峻考验。
-The president {{c1::came under}} severe criticism for his handling of the crisis.	总统对这场危机的处理方式受到了严厉的批评。
+The {{c2::negotiations}} will be {{c1::a severe test}} of his abilities.	这次谈判将是对他能力的严峻考验。
+The president {{c1::came under}} {{c2::severe criticism}} for {{c3::his handling of the crisis}}.	总统对这场危机的处理方式受到了严厉的批评。
 Drug {{c1::smugglers}} can {{c2::expect}} {{c3::severe penalties}}.	毒品贩子会受到重判。
 a first date with your {{c1::crush}}	和你心仪的人的初次约会
 It’s just a {{c1::schoolgirl}} crush.	那只是小女生的一种痴情。
-She had a {{c3::huge}} {{c1::crush}} {{c2::on}} her geography teacher.	她对地理老师非常迷恋。
-There’s always such a {{c1::crush}} on the train in the mornings.	早晨火车上总是那么拥挤。
-a guy in my class that I’m {{c1::crushing}} {{c2::on}}	我班上的一个我很迷恋的家伙
+She had a {{c3::huge}} {{c1::crush}} {{c2::on}} her {{c4::geography}} teacher.	她对地理老师非常迷恋。
+There's always such a {{c1::crush}} {{c2::on the train}} {{c3::in the mornings}}.	早晨火车上总是那么拥挤。
+a guy {{c2::in my class}} that I'm {{c1::crushing on}}	我班上的一个我很迷恋的家伙
 Sara was {{c1::crushed}} by their {{c2::insults}}.	萨拉因他们的侮辱而非常伤心。
 {{c1::crush}} sb’s hopes / {{c2::enthusiasm}} / confidence etc: to make someone lose all hope, confidence etc	粉碎某人的希望/热情/信心等
 {{c1::crush}} a {{c2::rebellion}} / {{c3::uprising}} / {{c4::revolt}} etc: to use severe methods to stop people from fighting you or opposing you	平定叛乱/起义/反叛等
@@ -234,10 +230,9 @@ The {{c1::revolution}} was {{c2::crushed}} within days.	几天之内这场革命
 {{c1::Crush}} two {{c2::cloves}} of garlic.	捣两瓣大蒜。
 Two people were {{c1::crushed to death}} in the {{c2::rush}} to {{c3::escape}}.	两个人在逃生过程中被踩死。
 His leg was {{c1::crushed}} in the accident.	他的腿在事故中被压断。
-the {{c1::spectacle}} of {{c2::drunken}} young men on the streets	街上年轻醉汉的丑态
-The {{c1::trial}} was {{c2::turned}} into a public {{c3::spectacle}}.	审判变成了一场公开的闹剧。
-a multimedia dance and opera {{c1::spectacle}}	盛大的多媒体舞蹈戏剧表演
-They receive a grant of £1,094 to cover the cost of {{c1::miscellaneous}} {{c2::expenses}}.	他们获得1,094英镑的津贴用于支付各种开支。
+the {{c1::spectacle}} of {{c2::drunken}} young men {{c3::on the streets}}	街上年轻醉汉的丑态
+The {{c1::trial}} {{c2::was turned}} into a public {{c3::spectacle}}.	审判变成了一场公开的闹剧。
+They receive a {{c2::grant}} of £1,094 to {{c3::cover}} the cost of {{c1::miscellaneous expenses}}.	他们获得1,094英镑的津贴用于支付各种开支。
 Do you know {{c1::what time it is}}?	你知道现在几点吗？
 There are {{c1::instructions}} telling you everything you need to know.	操作指南会告诉你所有须知事项。
 if a government {{c1::repeals}} a law, it officially ends that law	废除〔法律〕
@@ -248,18 +243,18 @@ Where {{c1::appropriate}} , I {{c2::delegate}} as much work as possible.	只要�
 I thought his {{c4::remark}} was highly {{c1::appropriate}}, {{c2::given}} the {{c3::circumstances}}.	考虑到当时情况，我认为他的话很恰当。
 I didn’t feel that this was {{c1::an appropriate time}} to {{c2::mention}} the {{c3::subject}} of money.	我觉得这个时候不适合提钱的问题。
 It would not be {{c1::appropriate}} for me to discuss that now.	现在我不宜讨论此事。
-an education system which is more {{c1::appropriate}} {{c2::to}} the needs of the students	更切合学生需求的教育制度
+{{c3::an education system}} which is more {{c1::appropriate}} {{c2::to the needs}} of the students	更切合学生需求的教育制度
 clothes {{c1::appropriate}} {{c2::for}} {{c3::a job interview}}	适合求职面试穿的服装
 Congress {{c1::appropriated}} $5 million for International Women’s Year.	国会为国际妇女年拨款500万美元。
 He is {{c1::suspected of}} {{c2::appropriating}} government {{c3::funds}}.	他被怀疑挪用政府资金。
 There was {{c1::a major upset}} when the young skater {{c2::took}} the gold medal.	那位年轻的滑冰运动员夺得了金牌，爆了个大冷门。
 The soup was {{c1::revolting}} and {{c2::upset my stomach}}.	那汤令人作呕，让我的肠胃很不舒服。
-Jones {{c1::upset}} the 40th-ranked American, Cunningham.	琼斯出人意料地打败了排名第40位的美国选手坎宁安。
+Jones {{c1::upset}} the 40th-{{c2::ranked}} American, Cunningham.	琼斯出人意料地打败了排名第40位的美国选手坎宁安。
 He {{c1::upset}} a {{c2::bowl}} of soup.	他打翻了一碗汤。
 The {{c2::chemicals}} {{c1::upset}} the balance of the environment.	这些化学品破坏了环境的平衡。
 Don’t do anything that would {{c1::upset}} him.	别做惹他生气的事情。
 Debbie was {{c1::upset}} that he didn’t spend more time with her.	他没有花更多的时间陪自己，黛比觉得不快。
-She was deeply {{c1::upset}} {{c2::about}} the way her father treated her.	父亲那样对她，她非常难过。
+She was deeply {{c1::upset}} {{c2::about}} the way her father {{c3::treated}} her.	父亲那样对她，她非常难过。
 You’re not still {{c1::upset}} {{c2::with}} me, are you?	你不是还在生我的气吧？
 The {{c1::bill}} would have {{c2::outlawed}} several types of guns.	这项法案将全面禁用几种枪支。
 I’ve never been able to {{c1::stomach}} seafood.	我从来都吃不了海鲜。
@@ -271,7 +266,7 @@ A lot of these children don't know {{c2::what it is like}} to have {{c1::a full 
 Don’t {{c3::go and see}} this film unless you have a {{c2::strong}} {{c1::stomach}}.	如果没有很强的承受力就不要去看这部电影。
 The {{c2::sight}} of the {{c3::slaughtered}} cow {{c1::turned}} my stomach.	看到被宰杀的牛我感到恶心。
 You shouldn’t take the pills {{c1::on an empty stomach}}.	你不可以空腹吃这些药片。
-He {{c3::turned round}} and {{c2::punched}} Carlos in the {{c1::stomach}}.	他转过身一拳打在卡洛斯的腹部。
+He {{c3::turned round}} and {{c2::punched}} Carlos {{c1::in the stomach}}.	他转过身一拳打在卡洛斯的腹部。
 His {{c1::stomach}} was {{c2::full of}} food.	他的胃里塞满了食物。
 She was becoming {{c1::an emotional prop}} for him.	她成了他的感情支柱。
 Anna {{c3::looks after}} {{c1::costumes}} and {{c2::props}}.	安娜管理服装和道具。
@@ -282,14 +277,14 @@ Italy’s {{c2::championship hopes}} eventually {{c1::bit the dust}}.	意大利�
 {{c1::discretion}} is the better part of {{c2::valour}}: used to say that it is better to be {{c3::careful}} than to {{c4::take unnecessary risks}}	知进退方可言大勇，知慎近乎勇
 British newspapers no longer feel they must treat the royal family with {{c1::discretion}}.	英国报界不再觉得他们非得审慎对待王室不可了。
 The committee has {{c1::the absolute discretion}} to refuse applications.	委员会拥有绝对的权力拒绝申请。
-The judge {{c1::exercised}} his {{c2::discretion}} rightly to admit the evidence.	法官正确地行使了决定权，接受了该项证据。
+{{c2::The judge}} {{c1::exercised his discretion}} {{c3::rightly}} to {{c4::admit}} {{c5::the evidence.}}	法官正确地行使了决定权，接受了该项证据。
 People want to have more {{c1::discretion}} {{c2::over}} their working hours.	人们要求对工作时间有更多的自主权。
 Promotions are {{c2::left to}} the {{c1::discretion}} of the supervisor.	晋升由主管决定。
 The awards are made at the {{c1::discretion}} of the committee.	获奖者由委员会决定。
 the government’s plans to {{c1::shake up}} the educational system	政府改革教育体系的计划
 I had to {{c1::forgo}} lunch.	我只得放弃午餐。
-Buying a house will be a {{c1::hedge}} against inflation.	买房子是应对通货膨胀的一种防范手段。
-‘That depends on my partner,’ she {{c1::hedged}}.	“那取决于我的合伙人。”她避重就轻地答道。
+{{c2::Buying a house}} will be a {{c1::hedge}} against {{c3::inflation}}.	买房子是应对通货膨胀的一种防范手段。
+‘That {{c2::depends on}} my partner,’ she {{c1::hedged}}.	“那取决于我的合伙人。”她避重就轻地答道。
 You’re {{c1::hedging}} again - have you got the money or haven’t you?	你又在闪烁其词了，你究竟有没有钱？
 It’s a good idea to {{c1::hedge your bets}} by applying to more than one college.	同时向几所大学提出申请是个保险的好主意。
 {{c1::hedge your bets}}: to reduce your chances of failure or loss by trying several different possibilities instead of one	多处下注以减少风险，对冲风险
@@ -297,7 +292,7 @@ Ooh, {{c1::gross}}! I hate spinach!	呃，恶心！我讨厌吃菠菜！
 {{c1::gross}} {{c2::indecency}} (=the {{c3::crime}} of doing something that is sexually {{c4::offensive}})	严重猥亵罪
 soldiers accused of {{c1::gross}} {{c2::violations}} of human rights	被指控严重侵犯人权的士兵
 a {{c1::gross}} profit of $5 million	500万美元的毛利
-Vernon estimates the company’s {{c1::net worth}} {{c2::at}} over $8 billion.	弗农估算公司的资产净值超过80亿美元。
+Vernon estimates the company's {{c1::net worth}} {{c2::at over $8 billion}}.	弗农估算公司的资产净值超过80亿美元。
 The {{c1::net profit}} (=after {{c2::taxes}}, {{c3::costs}} etc) was {{c4::up}} 16.3% last month.	上个月净利润增长了16.3%。
 The {{c1::net result}} will be higher costs to the consumer.	最后的结果是消费者将支付更高的费用。
 jars of coffee {{c2::weighing}} 450 grams {{c1::net}}	净重450克的一罐罐咖啡
@@ -306,11 +301,11 @@ The end of his finger had been {{c1::cut off}}.	他手指被切断了一截。
 The children's father had {{c1::cut off}} all {{c2::contact}} with them.	父亲和孩子们断绝了一切联系。
 She had {{c1::severed}} all contact with her ex-husband.	她和前夫断绝了一切往来。（常用cut off）
 The two countries {{c1::severed}} diplomatic {{c2::relations}}.	这两个国家断绝了外交关系。
-He {{c2::peeped}} {{c1::inquisitively}} {{c3::into}} the drawer.	他好奇地往抽屉里窥视。
+He {{c2::peeped}} {{c1::inquisitively}} {{c3::into the drawer}}.	他好奇地往抽屉里窥视。
 an {{c1::inquisitive}} {{c2::mind}}	好钻研的性格
 a {{c1::cheerful}}, {{c2::inquisitive}} little boy	一个快乐﹑好问的小男孩
 I’d have asked more questions, but I didn’t want to seem {{c1::inquisitive}}.	我本想问更多的问题，但我不想看上去那么爱打听。
-{{c1::sugar daddy}}: [informal] an older man who gives a young person presents and money in return for their {{c2::company}} and often for {{c3::sex}}	【非正式】 〔以礼物和金钱换取年轻女人陪伴或性好处的〕老色迷，阔干爹，甜爹
+{{c1::sugar daddy}}: [informal] an older man who gives a young person presents and money {{c4::in return for}} their {{c2::company}} and often for {{c3::sex}}	【非正式】 〔以礼物和金钱换取年轻女人陪伴或性好处的〕老色迷，阔干爹，甜爹
 This view is not widely {{c1::held}}.	持这种观点的人并不多见。
 She was {{c1::held to be}} one of the most talented actors {{c2::of her time}}.	她被认为是她那个时代最有天赋的演员之一。
 The judge {{c1::held}} that the child’s {{c3::interests}} in this case must {{c2::come first}}.	法官认为，该案必须首先考虑孩子的利益。
@@ -318,7 +313,7 @@ He was kept in {{c1::appalling}} conditions in prison.	他被关在环境极其�
 The decision to {{c2::execute}} the two men has {{c1::appalled}} many politicians.	处死那两名男子的判决令许多从政者震惊。
 ‘Do you {{c2::mind}} if I look at your notes?’ ‘{{c1::Be my guest}}.’	“我看一下你的笔记，行吗？”“随便看吧。”
 a {{c1::banquet}} for 250 {{c2::distinguished}} guests	250位贵宾出席的宴会
-a state {{c1::banquet}} (=one attended by {{c2::heads of government}} and other important people )	国宴
+{{c1::a state banquet}} (=one {{c3::attended}} by {{c2::heads of government}} and other important people )	国宴
 The Prime Minister is unlikely to {{c1::endorse}} this view.	首相不可能赞同这一观点。
 By the end of the meeting we had begun to {{c1::flag}}.	会议结束时，我们已经开始打蔫了。
 I’ve {{c1::flagged}} the parts I want to comment on.	我已经标示出我要评论的部分。
@@ -329,12 +324,12 @@ Learning poetry is a good {{c1::discipline}} for the memory.	背诗是训练记�
 Martial arts teach {{c1::respect}}, {{c2::discipline}}, and {{c3::cooperation}}.	武术能教人尊重他人﹑遵守纪律并且相互合作。
 A lot of the kids seemed to {{c2::lack}} {{c1::self-discipline}}.	这些小孩中有许多好像都缺乏自我约束力。
 The book gives parents advice on {{c1::discipline}}.	这本书指导父母如何管教孩子。
-serious {{c1::discipline}} problems in the police force	警察队伍内严重的纪律问题
+serious {{c1::discipline}} problems in {{c2::the police force}}	警察队伍内严重的纪律问题
 As things got worse {{c3::at work}}, he began to use {{c2::alcohol}} as a {{c1::crutch}}.	工作每况愈下，他就开始借酒消愁。
-I was {{c1::on crutches}} for three months after the operation.	手术后我拄了三个月的拐杖。
+I was {{c1::on crutches}} for three months after the {{c2::operation}}.	手术后我拄了三个月的拐杖。
 Use the spices {{c1::sparingly}} .	这种香料只要用一点点。
 an attempt to {{c1::trip up}} the Prime Minister on policy issues	诱使首相在政策问题上犯错的企图
-He {{c1::chased}} the thief, {{c2::tripped him up}}, and {{c3::grabbed}} the camera.	他追上盗贼，把他绊倒后夺回了相机。
+He {{c1::chased the thief}}, {{c2::tripped him up}}, and {{c3::grabbed the camera}}.	他追上盗贼，把他绊倒后夺回了相机。
 Always try a sleeping bag {{c1::for size}} before you buy it.	买睡袋之前一定要试试大小是否合适。
 a woman well {{c1::versed}} in the art of diplomacy	熟谙外交手腕的女人
 the {{c1::disclosure}} of private medical information	私人医疗信息的泄露
@@ -342,18 +337,18 @@ My father was {{c1::spouting}} his usual {{c2::nonsense}}!	我父亲又在没完
 I hate it when he {{c1::spouts off}} like that!	我讨厌他像那样讲个没完！
 I’m tired of listening to Jim {{c1::spouting about}} politics.	我听腻了吉姆大谈政治。
 a {{c2::volcano}} {{c1::spouting}} {{c3::lava}}	喷发着熔岩的火山
-Blood was {{c1::spouting}} from the wound {{c2::in}} her arm.	血从她手臂的伤口涌出。
+Blood was {{c1::spouting}} {{c3::from the wound}} {{c2::in her arm}}.	血从她手臂的伤口涌出。
 {{c2::The sudden fall}} {{c3::on the stock market}} {{c4::sent}} {{c5::brokers}} {{c1::into a spin}}.	股市突然下跌使经纪人惊慌失措。
-They tried to put {{c1::a positive spin}} on the sales figures.	他们试图美化销售数字。
+They tried to put {{c1::a positive spin}} on {{c2::the sales figures}}.	他们试图美化销售数字。
 the Earth’s {{c1::spin}}	地球的自转
 It was a real {{c1::bummer}} being ill {{c2::on holiday}}.	在假期里生病真扫兴。
-Meg and Neil were {{c2::due to}} marry, but she {{c1::ditched}} him.	梅格与尼尔本来是要结婚的，可她把他给甩了。
+Meg and Neil were {{c2::due to marry}}, but she {{c1::ditched him}}.	梅格与尼尔本来是要结婚的，可她把他给甩了。
 The government has {{c1::ditched}} plans to privatise the prison.	政府放弃了监狱私有化的计划。
 I’ll {{c1::vouch}} for the quality of the report. I read it last night.	我为报告的质量作保，我昨晚看过。
 ‘Where were you {{c2::on the night of the murder}}?’ ‘{{c3::In bed with flu}}. My wife can {{c1::vouch for that}}.’	“谋杀发生当晚你在哪里？”“患流感卧床，我妻子可以作证。”
 Tania {{c1::chucked}} her bag down on the sofa.	塔妮娅把包随手扔在沙发上。
 I think I might have {{c1::chucked}} it {{c2::by mistake}}.	我想可能是我无意中把它扔掉了。
-There was {{c2::silence}} while she {{c1::deliberated}} on his words.	她掂量着他的话，四周一片沉默。
+There was {{c2::silence}} while she {{c1::deliberated}} {{c3::on his words}}.	她掂量着他的话，四周一片沉默。
 The jury {{c1::deliberated}} for four days before {{c2::acquitting}} him.	陪审团斟酌了四天之后裁断他无罪。
 a {{c1::deliberate}} attempt to {{c2::humiliate}} her	对她的故意羞辱
 an expensive {{c2::court battle}} that could {{c1::drag on}} for years	可能拖延好几年的费用昂贵的官司
@@ -363,11 +358,11 @@ Can you {{c1::drag yourself away from}} (=stop watching) the TV for a minute?	�
 I {{c1::dragged myself}} {{c2::out of bed}} and into the bathroom.	我吃力地下床走进浴室。
 He {{c1::grabbed}} her arm and {{c2::dragged}} her into the room.	他抓住她的手臂把她拖进房间。
 Inge {{c2::managed to}} {{c1::drag}} the table into the kitchen.	英奇费了很大劲把桌子拖进厨房里。
-The group’s influence had begun to {{c1::wane}} by this time.	此时，这个团体的影响力已经开始减弱。
+The group's {{c2::influence}} had begun to {{c1::wane}} by this time.	此时，这个团体的影响力已经开始减弱。
 My {{c2::enthusiasm}} for the project was {{c1::waning}}.	我对这个项目的热情逐渐减退了。
 oil / petroleum / sugar {{c1::refinery}}	炼油厂/制糖厂
-It left a black {{c1::smear}} {{c2::on}} his arm.	这在他的左臂上留下了一点黑色的污迹。
-an {{c2::attempt}} to {{c1::smear}} the party leadership	污蔑党领导的企图
+It left a black {{c1::smear}} {{c2::on his arm}}.	这在他的左臂上留下了一点黑色的污迹。
+an {{c2::attempt}} to {{c1::smear}} {{c3::the party leadership}}	污蔑党领导的企图
 Elaine {{c1::smeared}} suntan lotion on her shoulders.	伊莱恩把防晒霜胡乱抹在 肩上。
 His face was {{c1::smeared}} with {{c2::mud}}.	他满脸泥污。
 The {{c2::constant}} criticism was beginning to {{c1::undermine her confidence}}.	不断的批评开始削弱她的信心了。
@@ -375,47 +370,317 @@ economic policies that {{c2::threaten}} to {{c1::undermine}} the health care sys
 two’s {{c1::company}}, three’s a {{c1::crowd}}: used to suggest that two people would rather be alone together than have other people with them	两人为伴，三人不欢〔用来表示宁可只有两个人而不要更多的人加入他们〕
 be {{c1::in good company}}: used to tell someone who has made a mistake that they should not be {{c2::embarrassed}} because some important or respected people have made the same mistake	一些大人物也这样〔用于安慰犯了错误的人〕
 If you can’t program the video recorder, you’re {{c1::in good company}}.	你不会预设录像机又怎么啦，不会的又不是就你一个。
-Things began to go wrong when he got into bad {{c1::company}}.	他交上坏朋友之后问题就来了。
+Things began to {{c2::go wrong}} when he {{c1::got into bad company}}.	他交上坏朋友之后问题就来了。
 We’re expecting {{c1::company}} this evening.	今晚我们有客人要来。
 Come over for dinner - I could {{c1::use the company}} (=would like to be with people) .	过来吃饭吧，我也好有个伴。
 The two men enjoy each other’s {{c1::company}}.	这两个人喜欢在一起。
 Your passport application form should be {{c1::accompanied}} by two recent photographs.	护照申请表应附近照两张。
 Daniel wanted Liz to {{c1::accompany}} him {{c2::on}} violin.	丹尼尔想让丽兹用小提琴为他伴奏。
-The disease is {{c1::accompanied by}} sneezing and fever.	这种病伴有打喷嚏和发烧症状。
+The disease is {{c1::accompanied by}} {{c2::sneezing}} and {{c3::fever}}.	这种病伴有打喷嚏和发烧症状。
 Do you want me to {{c1::go with}} you to the station?	你想不想让我陪你去车站？
 He {{c1::twisted}} his head slightly, and looked up at her.	他微微扭过头，抬眼看着她。
-an unexpected {{c1::twist}} in the plot	故事情节意想不到的转折
+an {{c3::unexpected}} {{c1::twist}} {{c2::in the plot}}	故事情节意想不到的转折
 {{c1::think tank}}: a group of people with experience or knowledge of a particular subject, who work to {{c2::produce ideas}} and {{c3::give advice}}	智囊团，智库〔就某方面问题出谋划策的专家小组〕
 There was no evidence that he had {{c1::incited}} members of the group to {{c2::violence}}.	没有证据证明他唆使该团体成员使用暴力。
 a person who {{c1::incites}} others to commit an offence	教唆他人犯罪的人
-They were charged with {{c1::inciting}} racial hatred.	他们被指控煽动种族仇恨。
+They were {{c2::charged with}} {{c1::inciting}} {{c3::racial hatred}}.	他们被指控煽动种族仇恨。
 {{c1::heavy-handed}}: taking too much action or extreme action, especially without thinking about other people’s feelings	粗暴的；严厉的；高压的
 a {{c1::heavy-handed}} style of management	高压管理方式
 Candidates should engage in serious political {{c1::discourse}}.	候选人应该参加严肃的政治对话。
 The project has been set up in {{c1::liaison}} with the art department.	该项目是和艺术系联合设立的。
 close {{c1::liaison}} between the army and police	军警之间的密切联系
-If he’s had a bad day, Paul {{c1::vents}} his anger on the family.	要是哪天过得不顺心，保罗就会在家人身上出气。
-The measures are meant to {{c1::stem}} the {{c2::tide}} of illegal immigration.	这些措施旨在遏制非法移民潮。
-A tight {{c2::bandage}} should {{c1::stem}} the bleeding.	扎紧绷带可以止血。
-an attempt to {{c1::stem}} the {{c2::decline}} in profits	遏制利润下滑的努力
-His headaches {{c1::stemmed}} from vision problems.	他的头痛是由视力问题引起的。
+If he's had {{c2::a bad day}}, Paul {{c1::vents his anger}} {{c4::on the family}}.	要是哪天过得不顺心，保罗就会在家人身上出气。
+The measures are {{c4::meant}} to {{c1::stem}} the {{c2::tide}} of {{c3::illegal immigration}}.	这些措施旨在遏制非法移民潮。
+{{c2::A tight bandage}} should {{c1::stem}} the {{c3::bleeding}}.	扎紧绷带可以止血。
+an attempt to {{c1::stem}} the {{c2::decline}} {{c3::in profits}}	遏制利润下滑的努力
+His headaches {{c1::stemmed}} from {{c2::vision problems}}.	他的头痛是由视力问题引起的。
 the {{c1::debacle}} of the 1994 elections	1994年大选的惨败
 {{c1::a life of ease}}: a comfortable life, without problems or worries	安逸的生活
 The bowl is removable {{c1::for ease of}} cleaning.	这个碗状物可取出以方便清洗。
-You always look {{c1::ill at ease}} in a suit.	你穿套装看上去总有些不自在。
+You always look {{c1::ill at ease}} {{c2::in a suit}}.	你穿套装看上去总有些不自在。
 She had an ability to put people {{c1::at their ease}}.	她有能力让人们感到自在。
 She felt completely {{c1::at ease with}} Bernard.	她和伯纳德在一起感到很自在。
 The security codes could be {{c2::broken}} {{c1::with relative ease}}.	破译那些安全密码相对容易。
 I was impressed by the {{c1::ease}} {{c2::with which}} the information could be {{c3::retrieved}}.	资料能够轻易检索到，这让我印象深刻。
-if something that you value very much is {{c1::at stake}}, you will lose it if a plan or action is not successful	有风险，成败难料
+if something that you {{c3::value very much}} is {{c1::at stake}}, you will {{c2::lose it}} if a plan or action is {{c4::not successful}}	有风险，成败难料
 They have to win the contract - thousands of jobs are {{c1::at stake}}.	他们必须拿下这份合同，这关系到数千个工作岗位。
-Don’t allow yourself to be {{c1::swayed}} by his promises.	你可不要听了他的许诺就改变主意呀。
-The trees {{c1::swayed}} gently in the {{c2::breeze}}.	树木在和风中轻轻摇曳。
+Don't {{c2::allow yourself}} to be {{c1::swayed}} by his promises.	你可不要听了他的许诺就改变主意呀。
+The trees {{c1::swayed}} {{c3::gently}} {{c2::in the breeze}}.	树木在和风中轻轻摇曳。
 the {{c1::sway}} of the ship	船的摇晃
-She was now completely under his {{c1::sway}}.	她现在完全受他的支配。
+She was now completely {{c1::under his sway}}.	她现在完全受他的支配。
 These old attitudes still {{c1::hold}} {{c2::sway}} in the church.	这些旧观念在教会中仍占支配地位。
 {{c1::ad hoc}} committee / group etc	特别委员会/小组等
 decisions made on an {{c1::ad hoc basis}}	临时作出的决定
 {{c2::Momentous}} events are {{c1::taking place}} in the US.	美国正在发生重大事件。
 His colleagues all recognized that this was a {{c2::momentous}} {{c1::occasion}}.	他的同事都认识到这是一个重要时刻。
 a {{c1::momentous}} {{c2::decision}}	重大决定
+The {{c4::illness}} had {{c1::impaired}} his ability to {{c2::think}} and {{c3::concentrate}}.	这种疾病损害了他的思维能力和注意力。
+{{c1::impaired}} {{c2::motor}} {{c3::function}}	受损的运动神经功能
+You silly {{c1::old bag}}!	你这愚蠢的老东西！
+The nurse was soon {{c1::discovered}} to be an {{c2::impostor}}.	那个护士很快被发现是个冒牌货。
+{{c1::ambivalent}} {{c2::attitude}} / {{c3::feelings}} etc	矛盾的态度/情绪等
+We are both {{c4::somewhat}} {{c1::ambivalent}} {{c2::about}} {{c3::having a child}}.	我们两人对于生孩子这件事心情都有点矛盾。
+It is {{c1::imperative}} to meet {{c2::face to face}} with the client.	必须面对面接触客户。
+A {{c1::broad}} and {{c2::balanced}} education is an {{c3::imperative}} for raising standards.	为提高教育水准，推行广泛和均衡的教育是当务之急。
+workers {{c1::emerging}} from their {{c2::daily grind}} in the factory	干完繁重的日常劳动从工厂出来的工人
+I decided it was time to {{c1::declutter}} my bedroom.	我决定该清理一下我的卧室了。
+{{c1::Reporters}} {{c2::converged}} {{c3::on the scene}}.	新闻记者聚集在现场。
+Journalists were {{c1::on the scene}} within minutes.	新闻记者几分钟后就到了事发现场。
+The police soon arrived {{c1::at the scene}} of {{c2::the crime}} .	警察很快就到达了案发现场。
+The film {{c1::contains}} some {{c2::violent scenes}}.	这部影片有几处暴力场面。
+Hamlet, {{c1::Act}} 5 {{c2::Scene}} 2	《哈姆雷特》第5幕第2场
+{{c1::divergence}} {{c2::between}} the US and Europe	美国和欧洲的分歧
+Here his views {{c1::diverged}} {{c2::from hers}}.	此处他的看法与她有分歧。
+The two species {{c1::diverged}} millions of years ago.	这两个物种从数百万年前开始朝不同方向演变。
+The two rivers {{c1::converge into one}} near Pittsburgh.	这两条河在匹兹堡附近汇合。
+Cultural beliefs about the role of women {{c1::converge}} {{c2::with}} government policies.	有关女性角色的文化观念与政府的政策趋于一致。
+The member states should start to have more {{c1::convergent}} policies.	成员国应该开始制定更为一致的政策。
+In {{c1::old-fashioned}} schools, {{c3::much learning}} was {{c2::by rote}} .	在旧式学校里，很多学习都是靠死记硬背。
+the {{c1::rote}} {{c2::learning}} of {{c3::facts}}	对资料的死记硬背
+They {{c2::live by}} {{c1::hunting and killing}} deer.	他们以猎杀鹿为生。
+{{c1::A sign}} {{c2::on the door}} {{c3::read}}, ‘No {{c4::Solicitors}}.’	门上有块牌子写着:“谢绝推销”。
+Because it was {{c1::a first offence}}, she was not {{c2::sent to prison}}.	因为是初犯，她没有被判坐牢。
+It is {{c1::a criminal offence}} to sell alcohol to someone {{c2::under the age of 18}}.	向未满18岁者售酒构成刑事犯罪。
+It is {{c1::an offence}} to {{c2::carry a weapon}} {{c3::in a public place}}.	在公共场所携带武器是违法的。
+In that year, 367 people were {{c1::charged with}} {{c2::terrorist offences}}.	那年有367人被控犯有恐怖袭击罪行。
+He had {{c1::committed}} {{c2::the offence}} of {{c3::dangerous driving}}.	他犯了危险驾驶罪。
+I think he {{c1::took offence}} {{c2::at}} my lack of enthusiasm.	我觉得他因为我缺乏热情而不开心了。
+{{c1::No offense}}, but this cheese tastes like {{c2::rubber}}.	请别见怪，这奶酪吃起来像是嚼橡胶。
+Don’t be {{c1::upset}} by what he said; he {{c2::meant no offence}} (=did not {{c3::intend}} to {{c4::offend}} anyone) .	不要为他的话而生气，他并没有冒犯谁的意思。
+The problem was how to say ‘no’ to her without {{c1::causing offence}}.	问题是怎样拒绝她而又不得罪她。
+{{c1::sexual}} {{c2::offences}} {{c3::against}} children	对儿童的性犯罪
+His {{c1::solicitor}} said he {{c2::committed the offence}} because he was {{c4::heavily}} {{c3::in debt}}.	他的律师说他犯罪是因为欠下巨债。
+Mrs Lynn Smith, {{c1::prosecuting}}, said {{c2::the offence}} {{c3::took place}} on January 27.	控方律师林恩·史密斯夫人称案件发生于1月27日。
+The company is to be {{c1::prosecuted}} {{c2::under}} the {{c3::Health and Safety Act}}.	按照《卫生安全条例》，这家公司将受到起诉。
+{{c2::Shoplifters}} will be {{c1::prosecuted}}.	在商店行窃者将被起诉。
+Jack {{c1::tucked}} his shirt {{c2::in}}.	杰克把衬衫掖进裤腰里。
+{{c1::smallpox}}: a serious {{c2::disease}} that causes {{c3::spots}} which leave {{c4::marks}} {{c5::on your skin}}	天花
+I have always tried to live {{c1::by my faith}} (={{c2::according to my religion}}) .	我一直努力按照自己的信仰生活。
+Her {{c4::recovery}} seemed {{c1::nothing}} {{c2::short of}} {{c3::a miracle}}.	她的康复简直是个奇迹。
+They want to make {{c1::sweeping}} {{c2::changes}} to education policies.	他们想要对教育政策进行大刀阔斧的改革。
+Sullivan {{c1::expressed}} {{c2::sympathy}} {{c3::for}} the striking federal workers.	沙利文对正在罢工的联邦政府雇员表示支持。
+{{c1::Our sympathies}} are {{c2::with}} {{c4::the families}} of {{c3::the victims}}.	我们向受害者家庭表示慰问。
+I have a lot of {{c1::sympathy}} {{c2::for her}}; she had to {{c3::bring up the children}} {{c4::on her own}}.	我非常同情她——她得独自把孩子抚养成人。
+She had great {{c1::empathy}} {{c2::with}} people.	她对人充满同情之心。
+We’re {{c1::approaching}} the issue from many different {{c2::angles}} .	我们从许多不同的角度来考虑这个问题。
+The company {{c1::leapfrogged}} {{c2::its rivals}} into {{c3::a leading position}}.	公司超越竞争对手，处于领先地位。
+School {{c1::examiners}} say that {{c2::marking}} has become more {{c3::lenient}} in recent years.	学校的阅卷人称近年来评分标准放宽了。
+{{c1::draft}} {{c2::proposal}} / {{c3::copy}} / {{c4::version}} etc: a piece of writing that is not yet {{c5::in its finished form}}	提议的草案/草稿/草拟中的版本等
+My dad was eighteen when he {{c1::got drafted}} {{c2::into the army}}.	我爸爸18岁被征召入伍。
+Eva’s busy {{c1::drafting}} {{c2::her speech}} for {{c3::the conference}}.	伊娃正忙着起草她的大会发言稿。
+All {{c5::parties}} {{c6::eventually}} {{c4::approved}} {{c1::the final draft}} (={{c2::finished form}}) of the {{c3::peace treaty}}.	各方最后都同意了和平条约的终稿。
+the {{c2::rough}} {{c1::draft}} of his new novel	他的新小说的草稿
+Businesses are investing in tree plantations as {{c1::a tax dodge}} (=a way of {{c2::avoiding}} {{c3::paying tax}}) .	企业投资林场作为避税手段。
+{{c1::draft dodging}}(=when someone {{c2::avoids}} {{c3::an order}} to {{c4::join}} the {{c5::army}}, {{c6::navy}} etc)	逃避征兵
+Senator O’Brian {{c3::skilfully}} {{c1::dodged}} the {{c2::crucial}} question.	奥布赖恩参议员巧妙地回避了这一关键问题。
+He ran across the courtyard, {{c1::dodging}} a {{c2::storm}} of {{c3::bullets}}.	他跑过院子，躲避雨点般的子弹。
+He {{c3::got into}} {{c2::all sorts of}} {{c1::scrapes}} as a boy.	他小时候闯过各种各样的祸。
+I {{c3::came away}} {{c4::from the accident}} with only {{c2::cuts}} and {{c1::scrapes}}.	这次事故我只受了点皮外伤。
+{{c1::Taxpayers}} will {{c2::pick up}} the {{c3::tab}} for the {{c4::stadium}}.	纳税人将承担建造体育馆的费用。
+I’ll {{c2::put it}} {{c1::on your tab}} and you can {{c3::pay}} tomorrow.	我把它记在你账上，你可以明天付钱。
+The {{c1::tab}} for the {{c2::campaign}} was nearly $500 million.	活动的费用将近5亿美元。
+{{c1::leapfrog}}: a children’s game in which someone {{c2::bends over}} and someone else {{c3::jumps over them}}	跳背游戏
+Dickens {{c1::painted}} {{c2::a grim picture}} of Victorian life.	狄更斯描绘了一幅暗淡的维多利亚时代生活图景。
+The article {{c1::painted}} him {{c2::in a bad light}} (=described him in a way that made him seem bad) .	这篇文章把他写得很坏。
+Parliament’s {{c2::summer}} {{c1::recess}}	议会的夏季休会期
+{{c1::the deep recesses}} of {{c2::the cave}}	洞穴的幽深处
+The smaller animals can easily {{c1::leap}} {{c2::from tree to tree}}.	体形较小的动物可以在树丛间轻巧地跳来跳去。
+She {{c1::leapt}} {{c2::over the fence}}.	她跳过篱笆。
+a {{c2::popular}} {{c1::uprising}} (=by {{c3::the ordinary people}} in a country)	平民暴动
+{{c1::overhead}} {{c2::wires}}	高架电线
+{{c3::A plane}} {{c1::flew}} {{c2::overhead}}.	一架飞机从头顶飞过。
+{{c3::Their offices}} are in London so {{c1::the overheads}} are {{c2::very high}}.	他们的办事处在伦敦，所以经常性开支非常大。
+a patient who is {{c1::exhibiting}} {{c2::classic symptoms}} of {{c3::mental illness}}	显现出精神病典型症状的患者
+{{c3::Her paintings}} have been {{c1::exhibited}} {{c2::all over the world}}.	她的绘画作品在世界各地展出。
+a {{c1::receptive}} {{c2::audience}}	愿意倾听的观众
+You might {{c2::find}} them in a {{c1::more receptive mood}} tomorrow.	也许他们明天会更乐于接受意见。
+a {{c3::workforce}} that is {{c1::receptive}} {{c2::to new ideas}}	乐于接受新观念的员工
+The {{c1::crux}} of the {{c2::matter}} is how do we {{c3::prevent}} a flood {{c4::occurring}} again?	问题的关键是我们如何预防洪水再次发生？
+The {{c1::crux}} of the {{c2::problem}} {{c3::lay}} {{c4::in the lack}} of equipment.	问题的症结在于缺乏设备。
+a silver {{c1::medallion}}	银质圆牌
+Let’s have a {{c1::takeaway}} tonight.	我们今晚叫外卖吧。
+{{c1::takeout food::外卖食品}}	外卖食品
+When his wife {{c3::left him}}, {{c2::his world}} {{c1::fell apart}}.	妻子离他而去，他的世界就此垮了。
+Tommy’s old bicycle was {{c1::rusty}} and {{c2::falling apart}}.	汤米的旧自行车锈迹斑斑，都快散架了。
+Don’t be {{c1::reckless}} or {{c2::your plans}} may {{c3::fall apart}}.	别鲁莽，否则你的计划可能会失败。
+The company started to {{c1::unravel}} when two of the {{c3::directors}} were {{c2::arrested}}.	两名董事被捕以后，公司开始分崩离析。
+{{c4::Detectives}} are still trying to {{c1::unravel}} the {{c2::mystery}} {{c3::surrounding his death}}.	侦探们仍在试图解开他的死亡之谜。
+Be {{c1::explicit}} when you {{c2::talk about money}} {{c3::with your family}}.	与家人谈钱的问题要直截了当。
+He {{c1::made the rules}} without being {{c2::explicit}} about them.	他制定的规则并不明确。
+The film {{c1::contains}} some very {{c2::explicit}} {{c3::love scenes}}.	这部影片中有一些非常露骨的性爱镜头。
+He {{c1::learnt}} to {{c2::moderate}} his {{c3::anger}}.	他学会了克制自己的怒火。
+The students {{c1::moderated}} their {{c2::demands}}.	学生们降低了要求。
+You’re right. That’s very {{c1::perceptive}} of you.	你说得对，你看得很透。
+The {{c1::tribunal}} {{c4::decided}} that Mr Matthews had been {{c2::unfairly}} {{c3::dismissed}} .	特别法庭裁定马修斯先生是被不公平解雇的。
+Many employers have {{c3::recognized}} that {{c1::age discrimination}} is {{c2::unfair}}.	许多雇主已经认识到年龄歧视是不公平的。
+A little {{c2::chili}} will {{c1::perk up}} the {{c3::sauce}}.	加一点辣椒，这酱汁就更有味了。
+There’s {{c1::no doubt}} coffee {{c2::perks you up}}.	咖啡无疑可以使人精神振奋。
+She seemed {{c2::kind of tired}}, but she {{c1::perked up}} when Helen came over.	她看上去有点疲倦，不过海伦一来她便精神起来了。
+I only eat here because it’s free - one of the {{c1::perks}} of the job.	我在这里吃饭只是因为不用花钱——这份工作的额外好处之一。
+theatre tickets and other {{c1::perks}}	戏票以及其他补贴
+Some experts are {{c1::concerned}} that the new drug won’t {{c2::live up to}} {{c3::all the hype}}.	一些专家担心这种新药并不像宣传中那么好。
+Despite {{c1::the media hype}}, I found the film very {{c2::disappointing}}.	尽管媒体大肆炒作，我还是觉得这部影片很让人失望。
+He was {{c1::in dispute}} {{c2::with the company}} {{c3::about his contract}}.	他和公司发生了合同纠纷。
+The US government became {{c1::involved}} in a {{c2::dispute}} with China.	美国政府与中国发生了争端。
+It is {{c1::hoped}} that the {{c2::dispute}} can be {{c3::resolved peacefully}}.	人们希望争端可以和平解决。
+The {{c1::facts}} of the {{c2::case}} are still {{c3::in dispute}}.	案情的真相仍有争议。
+His {{c1::interpretation}} of the poem is {{c2::open to dispute}}.	他对这首诗的诠释有可商榷的地方。
+It is {{c1::beyond dispute}} that {{c2::advances}} {{c3::in medicine}} have enabled people to live longer.	医学的发展使人们更加长寿，这是无可置疑的。
+He {{c1::got into a dispute}} {{c2::over a taxi fare}}.	他因出租车费和人发生了争执。
+the {{c1::bitter}} {{c2::border dispute}} between the countries	两国间激烈的边界争端
+The firm is {{c1::involved}} in a {{c2::legal dispute}} {{c3::with a rival company}}.	这家公司与一家竞争对手公司发生了法律纠纷。
+The main {{c2::facts}} of the book have never been {{c1::disputed}}.	书中的主要事实从未遭到质疑。
+Few would {{c1::dispute}} that travel {{c2::broadens the mind}}.	旅行开阔人们的视野，对此几乎没有人有异议。
+Leaving New York had been a terrible {{c1::wrench}}.	离开纽约让人十分伤感。
+He {{c1::grabbed the rope}} and gave it {{c2::a wrench}}.	他抓住绳子猛地一拉。
+She {{c1::managed to}} {{c2::wrench}} herself {{c3::free}}.	她想方设法挣脱了出来。
+I {{c1::wrenched}} the {{c2::packet}} {{c3::from his grasp}}.	我用力夺过他攥在手里的纸袋。
+I thought my {{c1::wrist}} might be {{c2::broken}}, but it was just {{c3::a bad sprain}}.	我以为我的手腕可能摔断了，但只是严重扭伤。
+I {{c1::fell down}} {{c2::the steps}} and {{c3::sprained my ankle}}.	我从台阶上摔下来，扭伤了脚踝。
+I think I’ve {{c1::wrenched}} my {{c2::knee}}.	我想我膝盖扭伤了。
+He {{c2::paused}}, {{c1::afraid lest}} he {{c3::say too much}}.	他停顿下来，唯恐说得太多。
+She was {{c1::worried lest}} he {{c2::should}} tell someone what had happened.	她担心他会把发生的事说出去。
+She {{c1::turned away}} from the window {{c2::lest}} anyone see them.	她转身离开窗边，免得有人看见他们。
+That day still {{c1::stands out}} as {{c2::the greatest day}} in my life.	那天仍是我一生中最美好的日子。
+The {{c1::outlines}} of rooftops and chimneys {{c2::stood out}} {{c3::against}} {{c4::the pale sky}}.	屋顶和烟囱的轮廓在灰暗的天空下显得很醒目。
+She always {{c1::stood out}} {{c2::in a crowd}}.	她在人群中总是显得很突出。
+{{c1::The instant}} I saw him, I knew he was the man from the restaurant.	我一看到他就认出他是餐馆里的那个人。
+Jen {{c1::burst out laughing}} {{c2::the instant}} she {{c3::walked in}}.	她一走进来，珍就大笑起来。
+She {{c3::stepped towards}} the door and, in that {{c1::very same instant}}, the doorbell {{c2::rang}}.	她走向门口，就在此时门铃响了。
+When the rain started, {{c4::the crowd}} {{c3::vanished}} {{c1::in an instant}} (=immediately).	开始下雨了，人群转眼间消失无踪。
+The {{c1::coroner}} {{c2::recorded}} a {{c3::verdict}} of death {{c4::by natural causes}}.	验尸官作出了自然死亡的结论。
+The {{c1::inquest}} {{c2::heard}} that she {{c3::died from}} multiple injuries.	死因调查表明她死于多处受伤。
+The {{c1::coroner}} will {{c2::hold an inquest}} {{c3::into the deaths}}.	验尸官将对死因进行调查。
+The Tories will {{c1::hold}} {{c2::a private inquest}} {{c3::into}} why they were {{c4::defeated}}.	托利党将对他们失败的原因进行内部讨论。
+a {{c1::verdict}} of {{c2::guilty / not guilty}}	有罪/无罪裁决
+a {{c1::guilty / not guilty}} {{c2::verdict}}	有罪/无罪裁决
+{{c5::The jury}} {{c1::found}} him {{c2::guilty}} {{c3::by}} {{c4::a unanimous verdict}}.	陪审团一致裁定他有罪。
+{{c1::The jury}} {{c2::retired}} to {{c3::consider}} their {{c4::verdict}}.	陪审团退庭商议裁决。
+{{c1::The inquest jury}} {{c2::returned a verdict}} of {{c3::‘unlawful killing’}}.	死因调查陪审团裁定为“非法杀害”。
+{{c1::reach}} / {{c2::arrive at}} {{c3::a verdict}} (={{c4::agree on a decision}})	作出决定，作出裁决
+{{c1::return}} / {{c2::give}} / {{c3::announce}} / {{c4::deliver}} a verdict (={{c5::officially say}} what a verdict is)	作出裁决
+{{c1::The jury}} {{c2::failed to}} {{c3::reach a verdict}}.	陪审团未能作出裁决。
+Trade unionists were {{c1::quick}} to {{c2::give their verdict}} {{c3::on the proposals}}.	工会会员对这些建议迅速提出了自己的看法。
+What’s your {{c1::verdict}} {{c2::on the movie}}?	你对这部电影有什么意见？
+The {{c3::audience’s}} {{c1::final verdict}} was {{c2::encouraging}}.	观众的最终意见令人鼓舞。
+The players {{c1::anxiously}} {{c2::awaited}} the {{c3::verdict}} of the umpire.	球员焦急地等待裁判的裁决。
+The {{c1::verdict}} was {{c2::‘not guilty’}}.	裁决为“无罪”。
+a {{c1::specialist}} in {{c2::geriatric}} {{c3::medicine}}	老年科专家
+{{c1::maternity}} / {{c2::general}} / {{c3::geriatric}} etc ward(=a ward for people with a {{c4::particular}} {{c5::medical condition}})	产科/普通/老年科等病房
+the other {{c1::patients}} {{c2::in the ward}}	病房里的其他病人
+Don’t forget {{c1::insect repellent}} to {{c2::ward off}} the mosquitoes.	别忘了带上防蚊子的驱虫剂。
+a {{c1::spell}} to {{c2::ward off}} {{c3::evil spirits}}	避邪的咒语
+{{c1::trick or treat::万圣节前夜讨糖吃}}	指万圣节前夜小孩子穿上化装服挨家挨户去讨糖吃
+the {{c1::tent}} {{c2::flap}}	帐篷门帘
+a {{c1::violent}} {{c2::argument}}	激烈争吵[争论]
+a {{c1::furious}} / {{c2::fierce}} {{c3::argument}}	激烈争吵[争论]
+a {{c1::bitter}} {{c2::argument}}	激烈争吵[争论]
+a {{c1::heated}} {{c2::argument}} (={{c3::involving}} {{c4::very strong feelings}})	激烈争吵[争论]
+There was {{c1::a big argument}} {{c2::about}} whether we should {{c3::move to}} a new house.	我们为了要不要搬家而大吵了一架。
+a {{c1::big}} / {{c2::huge}} / {{c3::massive}} argument	激烈/剧烈的争吵
+an argument {{c1::erupts}} (=a big argument {{c2::suddenly starts}})	突然爆发争吵[争论]
+an {{c1::argument}} {{c2::breaks out}} (=it {{c3::starts}})	争吵[争论]爆发
+{{c1::win}} / {{c2::lose}} an {{c3::argument}}	争吵[争论]赢了/输了
+I was {{c1::anxious}} to {{c2::avoid}} {{c3::an argument}}.	我一心想避免争吵。
+He was {{c1::deliberately}} {{c2::trying to}} {{c3::start an argument}}.	他故意想吵架。
+She didn’t want to {{c3::get into}} {{c1::another argument}} {{c2::about money}}.	她不想为了钱又吵起来。
+I could {{c3::hear}} my parents {{c1::having an argument}} {{c2::downstairs}}.	我听到父母在楼下争吵。
+If, {{c1::for the sake of argument}}, you aren’t {{c2::offered}} the job, what will you do?	比方说吧，如果得不到这份工作，你会怎么办？
+{{c1::for the sake of argument}}(={{c2::in order to}} {{c3::discuss all the possibilities}})	为了讨论各种可能性
+Ian {{c1::accepted}} the {{c2::suggestion}} {{c3::without argument}}.	伊恩二话不说就接受了这个建议。
+the {{c1::familiar}} {{c2::argument}} that the {{c3::costs}} {{c4::outweigh}} the {{c5::benefits}}	得不偿失这一常见的论点
+the {{c1::arguments}} {{c2::in favour of}} {{c3::banning}} tobacco advertising	支持禁止烟草广告的论点
+{{c1::A good argument}} {{c2::can be made}} for {{c3::comparing}} {{c5::the IT revolution}} {{c4::with}} {{c6::the invention of writing itself}}.	信息技术革命完全有理由与文字的发明相提并论。
+a {{c1::powerful}} {{c2::argument}} {{c3::against}} smoking	反对吸烟的有力论据
+We need to provide a {{c1::convincing}} argument {{c2::as to}} why {{c3::the system}} should be changed.	我们得提出有说服力的论据，证明为何要改变体制。
+There have been a lot of {{c1::arguments}} {{c2::about}} who was {{c3::responsible}} {{c4::for the accident}}.	人们针对谁该为事故负责一事争论不休。
+She had {{c1::a big argument}} {{c2::with her husband}}.	她和丈夫大吵了一架。
+You can {{c1::pat yourselves}} {{c2::on the back}} {{c3::for a job}} {{c4::well done}}.	你们干得很出色，可以自我表扬一下。
+He {{c1::patted}} the dog {{c3::affectionately}}.	他亲热地轻轻拍了拍那只狗。
+{{c1::stroke sb’s ego}}: to say {{c2::nice things}} to someone to make them {{c3::feel good}}, especially because you {{c4::want something from them}}	拍某人马屁，对某人阿谀奉承
+He {{c1::stroked}} the ball into an empty net, {{c2::with a minute to go}}.	还剩一分钟时，他把球轻轻击入空网。
+He {{c1::lifted her face}} and {{c2::stroked her hair}} {{c3::from her eyes}}.	他抬起她的脸，轻轻拂去她眼睛上的头发。
+He {{c1::reached out}} and {{c2::stroked her cheek}} {{c3::tenderly}}.	他伸出手，温柔地抚摸她的脸颊。
+Let’s {{c1::go out to lunch}} - {{c2::my treat}}.	我们出去吃午饭吧——我请客。
+The cafe {{c1::serves}} {{c2::an assortment of}} {{c3::gourmet treats}}.	这家小餐馆供应各种美味佳肴。
+When we {{c1::were kids}}, a trip {{c2::to the beach}} was {{c3::a real treat}} .	我们小时候，到海滩去玩是件特别开心的事。
+Steven took his son to {{c1::a cricket match}} as {{c2::a birthday treat}}.	史蒂文带儿子去看板球比赛，作为生日的特别待遇。
+{{c1::drama queen}}: a woman or HOMOSEXUAL man who {{c2::tends to behave}} {{c3::as if}} {{c4::situations are worse}} than they really are - used to {{c5::show disapproval}}	大惊小怪的人〔用于指女人或同性恋男人；含贬义〕
+Brian always {{c1::makes}} such {{c2::a drama}} {{c3::out of everything}}.	布赖恩对什么事都是大惊小怪的。
+a night of {{c2::high drama}} (={{c3::very exciting events}})	一个高潮迭起的晚上
+Maggie’s life is always {{c1::full of drama}}.	玛吉的生活总是充满了戏剧性。
+{{c1::young actors}} {{c2::coming out of}} {{c3::drama school}}	戏剧学校出来的年轻演员
+the {{c1::award-winning}} {{c2::TV drama}} ‘{{c3::Prime Suspect}}’	获奖电视剧《头号嫌疑犯》
+a new {{c1::drama series}} {{c2::for Saturday nights}}	周六晚上播放的新连续剧
+The {{c1::conversation}} {{c2::drifted}} from one topic to another.	话题从一个跳到另一个。
+I just {{c1::drifted into}} {{c2::teaching}}, {{c3::really}}.	我只是碰巧入了教书这一行，不骗你。
+Jenni {{c1::spent the year}} {{c2::drifting around Europe}}.	珍妮这一年来一直在欧洲各地漂泊。
+{{c4::Smoke}} {{c1::drifted up}} from the {{c2::jungle}} {{c3::ahead of us}}.	我们前方的丛林里有烟升起。
+The {{c1::rubber raft}} {{c2::drifted out}} {{c3::to sea}}.	橡皮筏子漂向大海。
+{{c1::tempered}} {{c2::steel}}	回火钢
+The {{c2::heat}} in this coastal town is {{c1::tempered}} by {{c3::cool sea breezes}}.	清凉的海风消减了这座海滨小城的暑气。
+the {{c1::temper}} of life in {{c2::Renaissance}} Italy	文艺复兴时期意大利人的生活态度
+Minnie was always {{c1::good-tempered}} and {{c2::agreeable}}.	明妮一向脾气好，讨人喜欢。
+I {{c3::was finding}} it {{c1::increasingly difficult}} to {{c2::keep my temper}}.	我发现我的脾气越来越难以控制。
+Her boss would {{c1::fly into a temper}} if a project wasn’t done {{c2::on time}}.	如果项目没有按时完成，她的老板就会大发雷霆。
+{{c1::Watch out}} - she’s been {{c2::in a foul temper}} {{c3::all day}}.	当心——她这一整天脾气都很暴躁。
+Pete {{c2::hit his brother}} {{c1::in a fit of temper}}.	皮特一气之下打了他弟弟。
+It’s {{c1::no use}} {{c2::talking to him}} when he’s {{c3::in a temper}}.	他在气头上时，跟他谈是没有用的。
+I’ve never seen Vic {{c1::lose his temper}}.	我从未看到过维克发脾气。
+Theo needs to {{c1::learn to}} {{c2::control his temper}} .	西奥应该学会控制他的脾气。
+According to Nathan, Robin has quite {{c1::a temper}} .	据内森讲，罗宾脾气很大。
+That {{c1::temper}} of hers will get her {{c2::into trouble}} one of these days.	她那种脾气早晚会让她惹麻烦的。
+{{c1::blindfold}}: {{c2::a piece of cloth}} that {{c3::covers someone’s eyes}} to {{c4::prevent}} them from {{c5::seeing anything}}	蒙眼布，障眼物，眼罩
+can do sth {{c1::blindfold}}: informal used to say that it is {{c2::very easy}} for you to do something because you have done it {{c3::so often}}	【非正式】 蒙着眼都能做某事
+{{c1::Blindfold}} the {{c2::prisoner}}!	把囚犯的眼睛蒙上！
+Initially, the President {{c2::remained aloof}} {{c3::from the campaign}}.	最初，总统没有参与这次运动。
+The doctor {{c1::held himself}} {{c2::somewhat aloof}} {{c3::from}} the rest of the ship’s {{c4::crew}}.	那位医生不大搭理其余的船员。
+{{c1::Beneath}} that {{c2::aloof exterior}}, Gayle is a {{c3::warm}}, {{c4::sympathetic}} person.	在冷漠的外表下，盖尔是个有同情心的热心人。
+She had always {{c1::kept herself aloof}} {{c2::from the boys}} {{c3::in class}}.	她对班上的男生一直很冷漠。
+They {{c1::worked hard}}, but {{c2::tended to}} {{c3::stay aloof}} {{c4::from the local inhabitants}}.	他们工作努力，但是一般不和当地居民来往。
+a {{c1::pencil}} {{c2::stub}}	铅笔头
+a {{c1::ticket}} {{c2::stub}}	票根
+{{c1::Would you mind}} {{c2::taking a photo}} {{c3::of us together}}?	你帮我们拍张合影好吗？
+There was a {{c1::catch}} in Anne’s {{c2::voice}} and she seemed {{c3::close to tears}}.	安妮的声音有点哽咽，她好像快要哭了。
+The {{c1::catch}} is that you can’t {{c2::enter the competition}} unless you’ve spent $100 {{c3::in the store}}.	圈套就在于，你得在该店消费100美元，否则就不能参加比赛。
+This deal looks {{c1::too good to be true}} - there must be a {{c2::catch}} {{c3::somewhere}}.	这笔交易好得难以置信——其中必有圈套。
+Hey! Nice {{c1::catch}}!	嘿！多漂亮的接球！
+The {{c1::rotation}} included two {{c2::rookies}}, Hernandez and Saunders.	轮岗的人中有两个新手——埃尔南德斯和桑德斯。
+a young doctor {{c1::on a rotation}} in the children’s {{c2::ward}}	轮岗到儿童病房的一名年轻医生
+Three plays will be {{c2::performed}} {{c1::in rotation}} during the drama festival.	戏剧节期间将有三个剧目轮流上演。
+{{c1::job}} {{c2::rotation}}	工作的轮换
+The {{c1::blades}} {{c2::spin}} at 100 {{c3::rotations}} per minute.	叶片每分钟转100圈。
+the {{c1::rotation}} of the Earth on its {{c2::axis}}	地球绕地轴的自转
+She had to {{c1::wear a brace}} after the {{c2::accident}}.	出事以后她只得使用支架。
+{{c1::neck}} / {{c2::back}} / {{c3::knee}} {{c4::brace}}	a brace that supports the neck etc 颈箍/背部夹板/膝部护具
+The {{c1::miners}} used special {{c2::braces}} to keep the walls from {{c3::collapsing}}.	矿工用特殊的支架撑住墙体，以免倒塌。
+The {{c1::base}} was {{c2::braced}} for an {{c3::attack}}.	基地已经准备好应付进攻。
+The military needs to {{c1::brace itself}} for further {{c2::spending cuts}}, says McCoy.	麦科伊称，军方需要做好再次削减开支的准备。
+Nancy {{c1::braced herself}} for the {{c2::inevitable}} {{c3::arguments}}.	南希为这场无法避免的争论作好了准备。
+The pilot told {{c1::passengers}} and {{c2::crew}} to {{c3::brace themselves}} for a {{c4::rough landing}}.	飞行员叫乘客和机组人员坐稳，准备硬着陆。
+Gina {{c1::braced her back}} {{c2::against the wall}} and {{c3::pushed}} as hard as she could.	吉娜后背抵住墙，尽最大力气来推。
+Workers used {{c1::steel beams}} to {{c2::brace the roof}}.	工人用钢梁支撑屋顶
+The demonstrators {{c1::melted away}} at the {{c2::first sign}} of {{c3::trouble}}.	示威者一见到有麻烦出现就纷纷散去。
+Her {{c1::determination}} to {{c2::take revenge}} slowly {{c3::melted away}}.	她的复仇决心逐渐动摇。
+A lot of the gold was {{c1::melted down}} and used for {{c2::making jewellery}}.	大量黄金被熔化后用来制作首饰。
+{{c3::Closing}} her eyes, she {{c1::melted into}} his {{c2::embrace}}.	她闭上眼睛，投入了他的怀抱。
+if food {{c1::melts in your mouth}}, it is {{c2::soft}} and {{c3::tastes very nice}}	〔食物〕入口即化，松软可口
+My {{c3::heart}} just {{c1::melted}} when I saw her {{c2::crying}}.	我看到她哭就心软了。
+His {{c1::anger}} slowly {{c2::melted}}.	他的怒气慢慢平息了。
+{{c1::Opposition}} {{c2::to the government}} {{c3::melted away}}.	对政府的反对逐渐消失了。
+{{c1::Melt}} the {{c2::butter}} in a {{c3::saucepan}}.	把黄油放在深平底锅里化开。
+It was warmer now, and the snow was beginning to {{c1::melt}}.	现在天气暖和了，雪开始融化。
+She {{c1::froze}} with {{c2::horror}} .	她吓呆了。
+I {{c1::froze and listened}}; someone was {{c2::in my apartment}}.	我突然停下来仔细听: 有人在我的公寓里。
+The {{c2::court}} {{c1::froze}} their {{c3::assets}} .	法院冻结了他们的资产。
+The government has been {{c4::forced}} to {{c1::cut spending}} and {{c2::freeze}} public-sector {{c3::wages}}.	政府只得削减开支，冻结公营部门的工资。
+I nearly {{c1::froze to death}} watching that {{c2::football match}}.	看那场足球赛差点把我冻死了。
+Do you {{c2::think}} it’ll {{c1::freeze}} tonight?	你觉得今晚会上冻吗？
+The water {{c1::pipes}} have {{c2::frozen}}.	水管已经冻住了。
+I think I’ll {{c1::freeze}} that {{c2::extra meat}}.	我想把多余的肉冷冻起来。
+The {{c1::lake}} had {{c2::frozen}} {{c3::overnight}}.	湖上一夜之间就结了冰。
+After a few {{c1::glasses}} of wine Robert began to {{c2::thaw a little}}.	几杯酒下肚，罗伯特放开了些。
+{{c1::Thaw}} {{c2::frozen meat}} in its {{c3::packet}} and then cook as soon as possible.	先将冻肉连包装解冻，然后尽快烹煮。
+It {{c1::thawed}} {{c2::overnight}}.	一夜之间冰雪融化。
+The {{c2::lake}} {{c1::thawed}} in March.	3月里，湖水解冻了。
+He {{c2::held his hands}} {{c3::in front of the fire}} to {{c1::thaw them out}}.	他把手伸到炉火前取暖。
